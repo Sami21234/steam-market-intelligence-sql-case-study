@@ -1,0 +1,861 @@
+game_id,steam_app_id,game_name,release_date,developers,publishers,genres,platforms,price,discount_percent,review_count,positive_percent,snapshot_date
+7,730,Counter-Strike 2,2012-08-21,Valve,Valve,"Action, Free To Play","Linux, Windows",0.00,,2606522.0,77.00,2026-08-31
+8,570,Dota 2,2013-07-09,Valve,Valve,"Action, Free To Play, Strategy","Linux, Mac, Windows",0.00,,837029.0,68.00,2026-08-31
+9,1172470,Apex Legends™,2020-11-04,Respawn,Electronic Arts,"Action, Adventure, Free To Play",Windows,0.00,,449635.0,67.00,2026-08-31
+10,1478500,Big Walk,2026-08-04,House House,Panic,Adventure,"Mac, Windows",999.00,,19731.0,95.00,2026-08-31
+11,2552430,KINGDOM HEARTS -HD 1.5+2.5 ReMIX-,2024-06-13,Square Enix,Square Enix,"Action, Adventure, RPG",Windows,3499.00,,7637.0,87.00,2026-08-31
+12,2767030,Marvel Rivals,2024-12-05,NetEase Games,,"Action, Free To Play",Windows,0.00,,298588.0,66.00,2026-08-31
+13,3513350,Wuthering Waves,2025-04-28,KURO GAMES,,"Action, Adventure, Free To Play, RPG",Windows,0.00,,29499.0,79.00,2026-08-31
+14,1623730,Palworld,2026-07-09,Pocketpair,Pocketpair,"Action, Adventure, Indie, RPG",Windows,910.00,30.00,179953.0,95.00,2026-08-31
+15,4162040,Zenless Zone Zero,2026-06-16,COGNOSPHERE PTE. LTD.,,"Action, Adventure, Free To Play, RPG",Windows,0.00,,6437.0,87.00,2026-08-31
+16,3079210,Hell Let Loose: Vietnam,2026-08-13,Expression Games,Team17,"Action, Massively Multiplayer, Simulation, Strategy",Windows,1893.00,,7518.0,61.00,2026-08-31
+17,1142710,Total War: WARHAMMER III,2022-02-16,"CREATIVE ASSEMBLY, Feral Interactive",SEGA,"Action, Strategy","Linux, Mac, Windows",4299.00,,56326.0,82.00,2026-08-31
+18,3932890,Escape from Tarkov,2025-11-15,Battlestate Games,,"Action, Massively Multiplayer, RPG, Simulation",Windows,1780.00,,12896.0,56.00,2026-08-31
+19,2483190,Forza Horizon 6,2026-05-18,Playground Games,Xbox Game Studios,"Racing, Simulation, Sports",Windows,4674.00,15.00,40777.0,71.00,2026-08-31
+20,4704690,MECCHA CHAMELEON,2026-06-09,lemorion_1224,lemorion_1224,Casual,Windows,309.00,,42321.0,89.00,2026-08-31
+21,292000,No More Room in Hell 2,2026-08-11,Torn Banner Studios,,"Action, Indie",Windows,1300.00,,8651.0,73.00,2026-08-31
+22,1449850,Yu-Gi-Oh! Master Duel,2022-01-18,KONAMI,KONAMI,"Free To Play, Simulation, Strategy",Windows,0.00,,48858.0,50.00,2026-08-31
+23,2507950,Delta Force,2024-12-04,Team Jade,,"Action, Adventure, Free To Play, Massively Multiplayer",Windows,0.00,,68500.0,49.00,2026-08-31
+24,252490,Rust,2018-02-08,Facepunch Studios,Facepunch Studios,"Action, Adventure, Indie, Massively Multiplayer, RPG","Mac, Windows",1799.00,21.00,530643.0,80.00,2026-08-31
+25,2950790,IRON NEST: Heavy Turret Simulator,2026-08-06,"Dominik Latos, Nick Nieuwoudt",,"Action, Indie, Simulation",Windows,599.00,,6986.0,97.00,2026-08-31
+26,3812600,ReStory: Chill Electronics Repairs,2026-08-06,Mandragora,tinyBuild,"Indie, Simulation","Mac, Windows",599.00,,4429.0,95.00,2026-08-31
+27,359550,Tom Clancy's Rainbow Six Siege,2015-12-01,Ubisoft Montreal,Ubisoft,"Action, Free To Play",Windows,0.00,,807220.0,72.00,2026-08-31
+28,3751950,Assassin's Creed Black Flag Resynced,2026-07-09,"Ubisoft Barcelona, Ubisoft Belgrade, Ubisoft Bordeaux, Ubisoft Chengdu, Ubisoft India, Ubisoft Kyiv, Ubisoft Montpellier, Ubisoft Montreal, Ubisoft Philippines, Ubisoft Quebec, Ubisoft Romania, Ubisoft Shanghai, Ubisoft Singapore",Ubisoft,"Action, Adventure",Windows,4199.00,,13751.0,86.00,2026-08-31
+29,3722330,Shift At Midnight,2026-07-22,Bun Muen,Kwalee,"Indie, Simulation",Windows,359.00,10.00,4150.0,86.00,2026-08-31
+30,236390,War Thunder,2013-08-15,Gaijin Entertainment,Gaijin Network Ltd,"Action, Free To Play, Massively Multiplayer, Simulation","Linux, Mac, Windows",0.00,,324456.0,65.00,2026-08-31
+31,2651280,Marvel's Spider-Man 2,2025-01-30,"Insomniac Games, Nixxes Software",PlayStation Publishing LLC,"Action, Adventure",Windows,3999.00,,17953.0,88.00,2026-08-31
+32,3527290,PEAK,2025-06-16,Team PEAK,"Aggro Crab, Evil Landfall?","Action, Adventure, Indie",Windows,359.00,38.00,141923.0,91.00,2026-08-31
+33,2141910,Magic: The Gathering Arena,2023-05-23,Wizards of the Coast,,"Free To Play, Strategy","Mac, Windows",0.00,,22555.0,58.00,2026-08-31
+34,3564740,Where Winds Meet,2025-11-14,Everstone Studio,,"Action, Adventure, Casual, Free To Play, Indie, Massively Multiplayer, Racing, RPG, Simulation, Strategy",Windows,0.00,,63771.0,79.00,2026-08-31
+35,4508340,NTE: Neverness to Everness,2026-07-07,Hotta Studio,,"Action, Adventure, Free To Play, RPG",Windows,0.00,,2572.0,80.00,2026-08-31
+36,4108000,Machine Party,2026-07-30,"GDeavid, Mike Klubnika",Oro Interactive,"Action, Indie","Linux, Windows",415.00,11.00,1576.0,86.00,2026-08-31
+37,1158310,Crusader Kings III,2020-09-01,Paradox Development Studio,Paradox Interactive,"RPG, Simulation, Strategy","Linux, Mac, Windows",3139.00,,50186.0,85.00,2026-08-31
+38,108600,Project Zomboid,2013-11-08,The Indie Stone,,"Early Access, Indie, RPG, Simulation","Linux, Mac, Windows",1149.00,,156728.0,88.00,2026-08-31
+39,2537590,Microsoft Flight Simulator 2024,2024-11-19,Asobo Studio,Xbox Game Studios,Simulation,Windows,3500.00,30.00,12806.0,76.00,2026-08-31
+40,3282300,Mistfall Hunter,2026-07-29,Bellring Games,Skystone Games,"Action, Adventure",Windows,1249.00,,6999.0,52.00,2026-08-31
+41,440,Team Fortress 2,2007-10-10,Valve,Valve,"Action, Free To Play","Linux, Windows",0.00,,741687.0,92.00,2026-08-31
+42,4115450,Phantom Blade Zero,2026-10-28,S-GAME Studio,,"Action, RPG",Windows,4299.00,,,,2026-08-31
+43,4570720,DragonSword : Awakening,2026-07-22,Hound13 Inc.,,"Action, Adventure, RPG",Windows,1899.00,,3309.0,89.00,2026-08-31
+160,4001890,How to Fish,2026-08-20,Dazed Games,,"Action, Casual, Indie, Simulation",Windows,359.00,,15555.0,95.00,2026-08-31
+164,1174180,Red Dead Redemption 2,2019-12-05,Rockstar Games,Rockstar Games,"Action, Adventure",Windows,1249.00,75.00,311012.0,93.00,2026-08-31
+165,4356430,NBA 2K27,2026-09-03,Visual Concepts,2K,Sports,Windows,3999.00,,523.0,49.00,2026-08-31
+170,2406770,Bodycam,2024-06-07,Reissad Studio,,"Action, Early Access, Indie, Massively Multiplayer, Simulation, Strategy",Windows,1500.00,,25788.0,89.00,2026-08-31
+175,2399830,ARK: Survival Ascended,2023-10-25,"Grove Street Games, Instinct Games, Studio Wildcard","Snail Games USA, Studio Wildcard","Action, Adventure, Early Access, Indie, Massively Multiplayer, RPG",Windows,925.00,75.00,58612.0,60.00,2026-08-31
+177,2139460,Once Human,2024-07-09,Starry Studio,,"Action, Adventure, Casual, Free To Play, Massively Multiplayer, Racing, RPG, Simulation, Strategy",Windows,0.00,,88983.0,89.00,2026-08-31
+178,1551360,Forza Horizon 5,2021-11-08,Playground Games,Xbox Game Studios,"Action, Adventure, Racing, Simulation, Sports",Windows,1399.00,60.00,92067.0,89.00,2026-08-31
+181,3892270,Gamble With Your Friends,2026-05-01,TEAM GWYF,TENSTACK,"Adventure, Indie, Simulation",Windows,400.00,11.00,11086.0,90.00,2026-08-31
+184,2073620,Arena Breakout: Infinite,2025-09-15,Morefun Studios,,"Action, Adventure, Free To Play, Massively Multiplayer, RPG, Strategy",Windows,0.00,,33363.0,76.00,2026-08-31
+188,2075800,STAR WARS Zero Company™,2026-08-27,Bit Reactor,Electronic Arts,"Adventure, RPG, Simulation, Sports, Strategy",Windows,2499.00,,7645.0,78.00,2026-08-31
+191,431960,Wallpaper Engine,2018-11-16,Wallpaper Engine Team,,"Animation & Modeling, Casual, Design & Illustration, Indie, Photo Editing, Utilities",Windows,250.00,,232025.0,95.00,2026-08-31
+193,1361210,"Warhammer 40,000: Darktide",2022-11-30,Fatshark,Fatshark,"Action, Adventure, RPG",Windows,549.00,75.00,74381.0,80.00,2026-08-31
+299,2694490,Path of Exile 2,2024-12-06,Grinding Gear Games,,"Action, Adventure, Early Access, Massively Multiplayer, RPG",Windows,2839.00,,96943.0,81.00,2026-08-31
+334,438100,VRChat,2017-02-01,VRChat Inc.,VRChat Inc.,"Adventure, Casual, Early Access, Free To Play, Massively Multiplayer, Simulation, Sports",Windows,0.00,,177069.0,70.00,2026-08-31
+342,227300,Euro Truck Simulator 2,2012-10-18,SCS Software,SCS Software,"Indie, Simulation","Linux, Mac, Windows",920.00,,145041.0,96.00,2026-08-31
+345,1867240,WARDOGS,2026-09-10,BULKHEAD,Team17,"Action, Early Access, Indie, Massively Multiplayer, Simulation",Windows,1969.00,,,,2026-08-31
+346,4025700,Heartopia,2026-01-16,XD,XD,"Casual, Free To Play, Simulation",Windows,0.00,,7880.0,69.00,2026-08-31
+347,2074920,The First Descendant,2024-06-30,"NEXON Games Co., Ltd.",NEXON,"Action, Adventure, Free To Play, RPG",Windows,0.00,,51028.0,48.00,2026-08-31
+348,990080,Hogwarts Legacy,2023-02-10,Avalanche Software,Warner Bros. Games,"Action, Adventure, RPG",Windows,399.00,90.00,143017.0,82.00,2026-08-31
+349,2713000,Resonance: A Plague Tale Legacy,2026-08-27,Asobo Studio,Focus Entertainment,"Action, Adventure",Windows,2699.00,,1609.0,92.00,2026-08-31
+350,266410,iRacing,2015-01-12,"iRacing, iRacing.com Motorsport Simulations",,"Massively Multiplayer, Racing, Simulation, Sports",Windows,552.00,,3262.0,85.00,2026-08-31
+352,4282500,hololive Dreams,2026-07-22,"QualiArts, Inc.",,"Action, Adventure, Free To Play, RPG",Windows,0.00,,1438.0,64.00,2026-08-31
+354,2868840,Slay the Spire 2,2026-03-05,Mega Crit,Mega Crit,"Early Access, Indie, Strategy","Linux, Mac, Windows",1100.00,,68256.0,71.00,2026-08-31
+355,2357570,Overwatch®,2023-08-10,"Blizzard Entertainment, Inc.","Blizzard Entertainment, Inc.","Action, Free To Play",Windows,0.00,,168345.0,55.00,2026-08-31
+356,4080220,EA SPORTS FC™ 27,2026-09-24,"EA CANADA, EA Romania",Electronic Arts,"Simulation, Sports",Windows,3999.00,,,,2026-08-31
+357,413150,Stardew Valley,2016-02-26,ConcernedApe,ConcernedApe,"Indie, RPG, Simulation","Linux, Mac, Windows",479.00,,393327.0,98.00,2026-08-31
+359,1222670,The Sims™ 4,2014-09-02,Maxis,Electronic Arts,"Adventure, Casual, Free To Play, Simulation",Windows,0.00,,106566.0,80.00,2026-08-31
+360,394360,Hearts of Iron IV,2016-06-06,Paradox Development Studio,Paradox Interactive,"Simulation, Strategy","Linux, Mac, Windows",3139.00,,124723.0,88.00,2026-08-31
+362,2300320,Farming Simulator 25,2024-11-12,GIANTS Software,GIANTS Software,Simulation,"Mac, Windows",1999.00,5.00,15482.0,93.00,2026-08-31
+364,1962700,Subnautica 2,2026-05-14,Unknown Worlds Entertainment,Unknown Worlds Entertainment,"Action, Adventure, Early Access",Windows,1800.00,,71461.0,88.00,2026-08-31
+365,3241660,R.E.P.O.,2025-02-26,semiwork,,"Action, Early Access",Windows,449.00,,137795.0,94.00,2026-08-31
+366,1363080,Manor Lords,2024-04-26,Slavic Magic,Hooded Horse,"Early Access, Simulation, Strategy",Windows,974.00,35.00,40136.0,82.00,2026-08-31
+367,1144200,Ready or Not,2023-12-13,VOID Interactive,,"Action, Adventure, Indie",Windows,1995.00,,150518.0,89.00,2026-08-31
+368,294100,RimWorld,2018-10-17,Ludeon Studios,Ludeon Studios,"Indie, Simulation, Strategy","Linux, Mac, Windows",1500.00,,119111.0,95.00,2026-08-31
+370,1868140,DAVE THE DIVER,2023-06-28,MINTROCKET,MINTROCKET,"Adventure, Casual, RPG, Simulation","Mac, Windows",880.00,,50821.0,93.00,2026-08-31
+372,813780,Age of Empires II: Definitive Edition,2019-11-14,"CaptureAge, Feral Interactive, Forgotten Empires, Tantalus Media, Wicked Witch, World's Edge",Xbox Game Studios,Strategy,"Mac, Windows",1399.00,15.00,61785.0,92.00,2026-08-31
+373,376210,The Isle,2015-12-01,Afterthought LLC,,"Action, Adventure, Early Access, Indie, Massively Multiplayer, Simulation",Windows,880.00,,61195.0,78.00,2026-08-31
+374,3124540,Far Far West,2026-04-28,Evil Raptor,Fireshine Games,"Action, Adventure, Early Access, Indie",Windows,599.00,20.00,19609.0,89.00,2026-08-31
+375,3164500,Schedule I,2025-03-24,TVGS,,"Action, Early Access, Indie, Simulation, Strategy",Windows,880.00,,200218.0,96.00,2026-08-31
+376,3405690,EA SPORTS FC™ 26,2025-09-25,"EA CANADA, EA Romania",Electronic Arts,"Simulation, Sports",Windows,750.00,,29081.0,55.00,2026-08-31
+377,1973530,Limbus Company,2023-02-26,ProjectMoon,,Free To Play,Windows,0.00,,49770.0,92.00,2026-08-31
+379,1284210,Guild Wars 2®,2022-08-23,ArenaNet®,"ArenaNet®, NCSOFT","Adventure, Free To Play, Massively Multiplayer, RPG",Windows,0.00,40.00,18896.0,86.00,2026-08-31
+380,1817070,Marvel’s Spider-Man Remastered,2022-08-12,"Insomniac Games, Nixxes Software",PlayStation Publishing LLC,"Action, Adventure, Casual",Windows,3999.00,,56589.0,96.00,2026-08-31
+381,1943950,Escape the Backrooms,2025-10-23,"Blackbird Interactive, Fancy Games",Secret Mode,"Action, Indie",Windows,449.00,5.00,45637.0,85.00,2026-08-31
+382,1289670,EA Play,2020-08-31,Electronic Arts,Electronic Arts,"Action, Sports",Windows,399.00,,12.0,50.00,2026-08-31
+383,1364780,Street Fighter™ 6,2023-06-01,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.","Action, Adventure",Windows,2499.00,,20735.0,65.00,2026-08-31
+384,261550,Mount & Blade II: Bannerlord,2022-10-25,TaleWorlds Entertainment,TaleWorlds Entertainment,"Action, Indie, RPG, Simulation, Strategy",Windows,2499.00,,98420.0,88.00,2026-08-31
+385,1407200,World of Tanks,2021-04-28,Wargaming Group Limited,Wargaming Group Limited,"Action, Free To Play, Massively Multiplayer, Simulation",Windows,0.00,30.00,25291.0,62.00,2026-08-31
+386,632360,Risk of Rain 2,2020-08-11,Hopoo Games,"2K, Gearbox Publishing","Action, Indie",Windows,237.00,67.00,163145.0,92.00,2026-08-31
+387,1286830,STAR WARS™: The Old Republic™,2011-12-20,Broadsword,Electronic Arts,"Free To Play, Massively Multiplayer, RPG",Windows,0.00,,52865.0,87.00,2026-08-31
+388,3065940,Gallipoli,2026-08-20,BlackMill Games,BlackMill Games,"Action, Indie, Massively Multiplayer, Simulation, Strategy",Windows,1011.00,25.00,1559.0,81.00,2026-08-31
+389,1295660,Sid Meier's Civilization VII,2025-02-10,Firaxis Games,2K,"Simulation, Strategy","Linux, Mac, Windows",2849.00,50.00,29233.0,50.00,2026-08-31
+390,250900,The Binding of Isaac: Rebirth,2014-11-04,"Edmund McMillen, Nicalis, Inc.","Nicalis, Inc.",Action,"Linux, Mac, Windows",459.00,,161844.0,94.00,2026-08-31
+391,281990,Stellaris,2016-05-09,Paradox Development Studio,Paradox Interactive,"Simulation, Strategy","Linux, Mac, Windows",3139.00,,76678.0,76.00,2026-08-31
+392,1085660,Destiny 2,2019-10-01,Bungie,Bungie,"Action, Adventure, Free To Play",Windows,0.00,,389448.0,77.00,2026-08-31
+393,284160,BeamNG.drive,2015-05-29,BeamNG,BeamNG,"Early Access, Racing, Simulation",Windows,1100.00,,209152.0,92.00,2026-08-31
+394,2246340,Monster Hunter Wilds,2025-02-27,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.","Action, Adventure, RPG",Windows,2499.00,,84677.0,58.00,2026-08-31
+395,3679080,The Seven Deadly Sins: Origin,2026-03-16,Netmarble F&C,,"Action, Adventure, Free To Play, Massively Multiplayer, RPG, Simulation",Windows,0.00,,4293.0,65.00,2026-08-31
+396,2661300,Grounded 2,2025-07-29,"Eidos-Montréal, Obsidian Entertainment",Xbox Game Studios,"Action, Adventure, Early Access",Windows,2499.00,,12678.0,79.00,2026-08-31
+397,881020,Granblue Fantasy: Relink,2024-01-31,"Cygames, Inc.",,"Action, Adventure, RPG",Windows,2499.00,,12427.0,84.00,2026-08-31
+398,1665460,eFootball™,2021-09-29,KONAMI,KONAMI,"Free To Play, Simulation, Sports",Windows,0.00,,30255.0,68.00,2026-08-31
+399,1331550,Big Ambitions,2026-08-28,Hovgaard Games,Hovgaard Games,"Indie, Simulation","Mac, Windows",935.00,20.00,5694.0,86.00,2026-08-31
+400,2073850,THE FINALS,2023-12-07,Embark Studios,,"Action, Free To Play",Windows,0.00,,157431.0,73.00,2026-08-31
+401,949230,Cities: Skylines II,2023-10-24,"Colossal Order, Iceflake Studios",Paradox Interactive,Simulation,Windows,3139.00,,34412.0,73.00,2026-08-31
+402,427520,Factorio,2020-08-14,Wube Software LTD.,,"Casual, Indie, Simulation, Strategy","Linux, Mac, Windows",1500.00,,117548.0,97.00,2026-08-31
+403,4032350,EA SPORTS™ College Football 27,2026-07-09,Tiburon,Electronic Arts,"Simulation, Sports",Windows,3999.00,25.00,2319.0,40.00,2026-08-31
+404,1671210,DELTARUNE,2025-06-04,tobyfox,tobyfox,"Indie, RPG","Mac, Windows",1099.00,,56925.0,97.00,2026-08-31
+405,3041230,Windrose,2026-04-14,Kraken Express,Pocketpair Publishing (Japan),"Action, Adventure, Early Access, RPG",Windows,1170.00,10.00,28270.0,78.00,2026-08-31
+406,1049590,Eternal Return,2023-07-19,Nimble Neuron,Nimble Neuron,,Windows,0.00,,12420.0,80.00,2026-08-31
+407,552990,World of Warships,2017-11-15,Wargaming Group Limited,Wargaming Group Limited,"Action, Free To Play, Massively Multiplayer, Simulation, Strategy",Windows,0.00,,49296.0,62.00,2026-08-31
+408,1374490,RuneScape: Dragonwilds,2025-04-15,Jagex Ltd,"H2 Interactive Co., Ltd., Jagex Ltd","Action, Adventure, Early Access, RPG",Windows,1700.00,4.00,22259.0,82.00,2026-08-31
+409,648800,Raft,2022-06-20,Redbeet Interactive,Axolot Games,"Adventure, Indie, Simulation",Windows,915.00,,129952.0,89.00,2026-08-31
+410,1203220,NARAKA: BLADEPOINT,2021-08-11,24 Entertainment,,"Action, Adventure, Free To Play, Massively Multiplayer",Windows,0.00,,23833.0,57.00,2026-08-31
+411,2806050,Halo: Campaign Evolved,2026-07-28,Halo Studios,Xbox Game Studios,"Action, Adventure",Windows,4999.00,,9711.0,55.00,2026-08-31
+412,1672970,Minecraft Dungeons,2021-09-22,"‪Double Eleven, Mojang Studios",Xbox Game Studios,"Action, Adventure, RPG",Windows,549.00,50.00,7780.0,84.00,2026-08-31
+413,2001120,Split Fiction,2025-03-06,Hazelight Studios,Electronic Arts,"Action, Adventure",Windows,2499.00,,23670.0,95.00,2026-08-31
+414,262060,Darkest Dungeon®,2016-01-19,Red Hook Studios,Red Hook Studios,"Indie, RPG, Strategy","Linux, Mac, Windows",164.00,85.00,56832.0,88.00,2026-08-31
+415,739630,Phasmophobia,2020-09-18,Kinetic Games,Kinetic Games,"Action, Early Access, Indie",Windows,629.00,30.00,358965.0,87.00,2026-08-31
+416,2622380,ELDEN RING NIGHTREIGN,2025-05-29,"FromSoftware, Inc.","Bandai Namco Entertainment, FromSoftware, Inc.","Action, RPG",Windows,2499.00,,74802.0,78.00,2026-08-31
+417,105600,Terraria,2011-05-16,Re-Logic,Re-Logic,"Action, Adventure, Indie, RPG","Linux, Mac, Windows",480.00,,600304.0,96.00,2026-08-31
+418,270880,American Truck Simulator,2016-02-02,SCS Software,SCS Software,"Indie, Simulation","Linux, Mac, Windows",920.00,,94611.0,96.00,2026-08-31
+419,2707930,Palia,2024-03-25,Singularity 6 Corporation,,"Adventure, Casual, Free To Play, Indie, RPG, Simulation",Windows,0.00,,27030.0,81.00,2026-08-31
+420,3787240,MARVEL Tōkon: Fighting Souls,2026-08-06,"ARC SYSTEM WORKS CO., LTD",PlayStation Publishing LLC,"Action, Casual",Windows,3999.00,,3984.0,47.00,2026-08-31
+465,1149460,ICARUS,2021-12-03,RocketWerkz,RocketWerkz,"Action, Adventure, Simulation",Windows,375.00,75.00,30954.0,81.00,2026-08-31
+503,1476970,IdleOn - The Incremental MMO,2025-11-06,Lavaflame2,Lavaflame2,"Adventure, Casual, Free To Play, Indie, Massively Multiplayer, RPG, Simulation, Strategy",Windows,0.00,,21624.0,65.00,2026-08-31
+529,3949040,RV There Yet?,2025-10-21,Nuggets Entertainment,,"Action, Adventure, Indie",Windows,400.00,,30498.0,85.00,2026-08-31
+531,1203620,Enshrouded,2024-01-24,Keen Games GmbH,,"Action, Adventure, Early Access, Indie, RPG",Windows,1299.00,15.00,48773.0,81.00,2026-08-31
+535,2764460,Sandustry,2026-08-13,Lantto Games,Hooded Horse,"Early Access, Simulation, Strategy","Linux, Mac, Windows",499.00,45.00,2559.0,97.00,2026-08-31
+536,269210,Hero Siege,2014-01-29,Panic Art Studios Ltd,,"Action, Adventure, Indie, Massively Multiplayer, RPG","Linux, Windows",132.00,67.00,12992.0,62.00,2026-08-31
+539,4380490,Cat Mail Co.,2026-07-09,Maracas Studio,"Gamersky Games, Maracas Studio","Indie, Simulation","Mac, Windows",599.00,,3087.0,92.00,2026-08-31
+540,1808500,ARC Raiders,2025-10-30,Embark Studios,,Action,Windows,2590.00,,198535.0,48.00,2026-08-31
+541,3293260,Waterpark Simulator,2026-07-31,CayPlay,,"Casual, Indie, Simulation",Windows,305.00,,9264.0,96.00,2026-08-31
+542,1326470,Sons Of The Forest,2024-02-22,Endnight Games Ltd,Newnight,"Action, Adventure, Indie, Simulation",Windows,1300.00,,117630.0,90.00,2026-08-31
+543,346110,ARK: Survival Evolved,2017-08-27,"Efecto Studios, Instinct Games, Studio Wildcard, Virtual Basement LLC","Snail Games USA, Studio Wildcard","Action, Adventure, Indie, Massively Multiplayer, RPG","Mac, Windows",455.00,34.00,256061.0,84.00,2026-08-31
+544,1118520,Paralives,2026-05-25,Alex Massé and team,,"Early Access, Simulation","Mac, Windows",1600.00,8.00,14162.0,85.00,2026-08-31
+546,1401590,Disney Dreamlight Valley,2023-12-05,Gameloft,Gameloft,"Action, Adventure, Casual, RPG, Simulation",Windows,2499.00,,15657.0,87.00,2026-08-31
+548,2436940,Sephiria,2026-07-31,TEAM HORAY,TEAM HORAY,"Action, Adventure, Indie, RPG","Mac, Windows",690.00,25.00,2431.0,94.00,2026-08-31
+549,2142790,Fields of Mistria,2026-08-05,NPC Studio,,"Indie, RPG, Simulation","Linux, Windows",650.00,,24265.0,93.00,2026-08-31
+552,2567870,Chained Together,2024-06-19,Anegar Games,Secret Mode,"Adventure, Casual, Indie, Simulation",Windows,200.00,20.00,20370.0,83.00,2026-08-31
+553,518790,theHunter: Call of the Wild™,2017-02-16,Expansive Worlds,Avalanche Studios,"Adventure, Simulation, Sports",Windows,880.00,,75293.0,90.00,2026-08-31
+554,219990,Grim Dawn,2016-02-25,Crate Entertainment,Crate Entertainment,"Action, Adventure, Indie, RPG",Windows,1149.00,,40931.0,84.00,2026-08-31
+555,2968420,PowerWash Simulator 2,2025-10-23,FuturLab,FuturLab,"Casual, Indie, Simulation",Windows,750.00,25.00,7363.0,92.00,2026-08-31
+556,1604270,Broken Arrow,2025-06-19,Steel Balalaika,Slitherine Ltd.,Strategy,Windows,2000.00,,10213.0,55.00,2026-08-31
+557,3712080,Funnel Runners,2026-07-16,Supernova Studios LLC,,"Action, Early Access, Indie, Simulation",Windows,305.00,,2053.0,81.00,2026-08-31
+559,526870,Satisfactory,2024-09-10,Coffee Stain Studios,Coffee Stain Publishing,"Adventure, Indie, Simulation, Strategy",Windows,1600.00,9.00,137073.0,97.00,2026-08-31
+560,2426960,Summoners War,2024-01-07,Com2uS,Com2uS,"Free To Play, RPG, Strategy",Windows,0.00,,4032.0,69.00,2026-08-31
+561,3493540,Transport Fever 3,2026-09-29,Urban Games,Paradox Interactive,"Casual, Free To Play, Simulation, Strategy","Linux, Mac, Windows",2799.00,,,,2026-08-31
+562,3940610,EA SPORTS™ Madden NFL 27,2026-08-13,Tiburon,Electronic Arts,"Simulation, Sports, Strategy",Windows,3999.00,13.00,586.0,35.00,2026-08-31
+563,3219630,Halloween: The Game,2026-09-08,IllFonic,IllFonic Publishing,Action,Windows,1649.00,,,,2026-08-31
+564,2958130,Jurassic World Evolution 3,2025-10-21,Frontier Developments,Frontier Developments,"Simulation, Strategy",Windows,2974.00,,7335.0,93.00,2026-08-31
+565,2684630,Endacopia,2026-07-27,Andyland,,"Adventure, Indie",Windows,776.00,,4512.0,99.00,2026-08-31
+567,3808690,Pathogenic,2026-07-16,Aberrant Labs,Slug Disco,"Action, Indie, RPG, Simulation","Linux, Mac, Windows",399.00,20.00,2508.0,91.00,2026-08-31
+568,892970,Valheim,2021-02-02,Iron Gate AB,Coffee Stain Publishing,"Action, Adventure, Early Access, Indie, RPG","Linux, Mac, Windows",1300.00,15.00,257884.0,89.00,2026-08-31
+571,1332010,Stray,2022-07-19,BlueTwelve Studio,Annapurna Interactive,"Adventure, Indie","Mac, Windows",674.00,50.00,79273.0,96.00,2026-08-31
+572,1368140,Corsair Cove,2026-07-31,Limbic Entertainment,Hooded Horse,"Simulation, Strategy",Windows,1499.00,35.00,1263.0,85.00,2026-08-31
+573,1172620,Sea of Thieves: 2026 Edition,2020-06-03,Rare Ltd,Xbox Game Studios,"Action, Adventure",Windows,3499.00,,147316.0,80.00,2026-08-31
+574,4421010,Bills Must Be Paid,2026-07-29,Rike Games,Rike Games,"Action, Casual, Indie, Simulation, Strategy","Mac, Windows",359.00,3.00,3618.0,96.00,2026-08-31
+575,3224770,Umamusume: Pretty Derby,2025-06-24,"Cygames, Inc.",,"Free To Play, Simulation, Sports",Windows,0.00,,41953.0,92.00,2026-08-31
+576,251570,7 Days to Die,2024-07-25,The Fun Pimps,The Fun Pimps Entertainment LLC,"Action, Adventure, Indie, RPG, Simulation, Strategy","Linux, Mac, Windows",1800.00,,124127.0,65.00,2026-08-31
+577,3059520,F1® 25,2025-05-30,Codemasters,Electronic Arts,"Racing, Sports",Windows,2499.00,,10030.0,87.00,2026-08-31
+578,3844970,Burglin' Gnomes,2026-06-10,Fobri,,"Action, Adventure",Windows,399.00,20.00,2334.0,81.00,2026-08-31
+579,753640,Outer Wilds,2020-06-18,Mobius Digital,Annapurna Interactive,"Action, Adventure",Windows,629.00,40.00,52561.0,94.00,2026-08-31
+580,223750,DCS World Steam Edition,2018-03-18,Eagle Dynamics SA,Eagle Dynamics SA,"Free To Play, Simulation",Windows,0.00,25.00,23152.0,76.00,2026-08-31
+581,1794680,Vampire Survivors,2022-10-20,poncle,,"Action, Casual, Indie, RPG","Mac, Windows",186.00,25.00,127681.0,95.00,2026-08-31
+582,2186680,"Warhammer 40,000: Rogue Trader",2023-12-07,Owlcat Games,,"Action, Adventure, Indie, RPG, Strategy","Mac, Windows",1948.00,30.00,19232.0,90.00,2026-08-31
+583,1313140,Cult of the Lamb,2022-08-11,Massive Monster,Devolver Digital,"Action, Adventure, Indie, Strategy","Mac, Windows",899.00,,60682.0,95.00,2026-08-31
+584,1067360,Pax Autocratica,2026-08-10,Multiverse,Multiverse,"Action, Early Access, Indie, Simulation",Windows,1349.00,,1659.0,92.00,2026-08-31
+585,1250410,Microsoft Flight Simulator (2020) 40th Anniversary Edition,2026-08-25,Asobo Studio,Xbox Game Studios,Simulation,Windows,1399.00,65.00,44216.0,76.00,2026-08-31
+586,238960,Path of Exile,2013-10-23,Grinding Gear Games,,"Action, Adventure, Free To Play, Indie, Massively Multiplayer, RPG","Mac, Windows",0.00,,142922.0,78.00,2026-08-31
+587,2397300,Half Sword,2026-01-30,Half Sword Games,,"Action, Adventure, Early Access, Indie, Simulation",Windows,1100.00,,21141.0,73.00,2026-08-31
+588,2523770,The Lord of the Rings: War in the North™ - Legacy Edition,2026-08-11,Aspyr Media,Aspyr Media,"Action, RPG",Windows,880.00,,1690.0,83.00,2026-08-31
+589,1190970,House Flipper 2,2023-12-14,Frozen District,Frozen District,"Casual, Indie, Simulation",Windows,1600.00,10.00,9496.0,95.00,2026-08-31
+590,440900,Conan Exiles Enhanced,2018-05-08,"Funcom, Inflexion Games",Funcom,"Action, Adventure, Massively Multiplayer, RPG, Simulation, Strategy",Windows,999.00,20.00,39596.0,78.00,2026-08-31
+591,1974050,Torchlight: Infinite,2023-05-09,XD,XD,"Action, Adventure, Free To Play, RPG",Windows,0.00,,8282.0,58.00,2026-08-31
+592,2592160,Dispatch,2025-10-22,AdHoc Studio,AdHoc Studio,"Action, Adventure, Casual, Indie, Strategy",Windows,1300.00,,107916.0,95.00,2026-08-31
+593,1426210,It Takes Two,2021-03-25,"Hazelight Studio, Hazelight Studios",Electronic Arts,"Action, Adventure, Indie",Windows,2199.00,,47920.0,96.00,2026-08-31
+594,1913120,Tears of Metal,2026-07-22,Paper Cult,Paper Cult,"Action, Early Access, Indie",Windows,1149.00,,1573.0,85.00,2026-08-31
+595,4594150,"Sir, We Have an Orc Problem",2026-07-28,Mumpitz Games,,"Indie, Simulation, Strategy","Linux, Windows",299.00,5.00,2324.0,86.00,2026-08-31
+597,460930,Tom Clancy's Ghost Recon® Wildlands,2017-03-06,"Reflections, Ubisoft Annecy, Ubisoft Belgrade, Ubisoft Bucharest, Ubisoft Milan, Ubisoft Montpellier, Ubisoft Paris",Ubisoft,"Action, Adventure",Windows,3499.00,,40964.0,60.00,2026-08-31
+598,945360,Among Us,2018-11-16,Innersloth,Innersloth,Casual,Windows,137.00,40.00,380747.0,92.00,2026-08-31
+599,550,Left 4 Dead 2,2009-11-16,Valve,Valve,Action,"Linux, Windows",480.00,,232333.0,97.00,2026-08-31
+600,699130,World War Z,2021-09-21,Saber Interactive Inc,Saber Interactive Inc,Action,Windows,739.00,63.00,7386.0,77.00,2026-08-31
+601,4450620,GRAIN ROT,2026-08-07,Beck & Branch Games,Neem Interactive,"Action, Indie, Simulation",Windows,455.00,11.00,1649.0,88.00,2026-08-31
+602,2688950,Planet Coaster 2,2024-11-06,Frontier Developments,Frontier Developments,"Simulation, Strategy",Windows,2000.00,,8585.0,85.00,2026-08-31
+603,322330,Don't Starve Together,2016-04-21,Klei Entertainment,Klei Entertainment,"Action, Adventure, Indie, RPG, Simulation, Strategy","Linux, Mac, Windows",459.00,,82084.0,90.00,2026-08-31
+604,2668510,Red Dead Redemption,2024-10-29,"‪Double Eleven, Rockstar Games",Rockstar Games,Action,Windows,3079.00,43.00,11750.0,93.00,2026-08-31
+605,2456740,inZOI,2025-03-27,inZOI Studio,"KRAFTON, Inc.","Adventure, Casual, Early Access, Simulation","Mac, Windows",2399.00,,14065.0,80.00,2026-08-31
+606,3070070,TCG Card Shop Simulator,2024-09-15,OPNeon Games,,"Early Access, Simulation",Windows,915.00,,33368.0,94.00,2026-08-31
+607,304390,FOR HONOR™,2017-02-13,"Blue Byte, Ubisoft Montreal, Ubisoft Quebec, Ubisoft Toronto",Ubisoft,Action,Windows,1499.00,,58698.0,63.00,2026-08-31
+608,4164790,Survival Log,2026-08-12,Midnight Workshop,Lilith Games,"Adventure, RPG, Simulation, Strategy",Windows,549.00,,218.0,86.00,2026-08-31
+609,1818450,STALZONE,2022-12-09,EXBO,,"Action, Free To Play, Massively Multiplayer, RPG",Windows,0.00,,17812.0,67.00,2026-08-31
+610,444200,World of Tanks Blitz,2016-11-09,Wargaming Group Limited,Wargaming Group Limited,"Action, Free To Play, Massively Multiplayer, Simulation, Strategy","Mac, Windows",0.00,,24623.0,64.00,2026-08-31
+611,380600,Fishing Planet,2015-08-11,Fishing Planet LLC,,"Free To Play, Massively Multiplayer, Simulation, Sports","Linux, Mac, Windows",0.00,,29231.0,86.00,2026-08-31
+612,1304930,The Outlast Trials,2024-03-05,Red Barrels,Red Barrels,"Action, Adventure, Indie",Windows,1600.00,15.00,41995.0,89.00,2026-08-31
+613,4000,Garry's Mod,2006-11-29,Facepunch Studios,,"Casual, Indie, Simulation","Linux, Mac, Windows",399.00,,538336.0,96.00,2026-08-31
+614,1466860,Age of Empires IV: Anniversary Edition,2021-10-28,"Climax Studios, Forgotten Empires, Relic Entertainment, World's Edge",Xbox Game Studios,Strategy,Windows,1299.00,,28768.0,82.00,2026-08-31
+615,4358690,Graveyard Keeper 2,2026-09-22,Lazy Bear Games,tinyBuild,"Adventure, RPG, Simulation",Windows,919.00,20.00,,,2026-08-31
+616,1778820,TEKKEN 8,2024-01-25,Bandai Namco Studios Inc.,Bandai Namco Entertainment,Action,Windows,2499.00,,27277.0,72.00,2026-08-31
+617,2927200,Mount & Blade II: Bannerlord - War Sails,2025-11-26,TaleWorlds Entertainment,TaleWorlds Entertainment,"Action, Indie, RPG, Simulation, Strategy",Windows,1299.00,,2477.0,45.00,2026-08-31
+812,835570,Conqueror's Blade,2020-04-05,Booming Tech,,"Action, Free To Play, Massively Multiplayer, RPG, Strategy",Windows,0.00,,6941.0,51.00,2026-08-31
+813,275850,No Man's Sky,2016-08-12,Hello Games,Hello Games,"Action, Adventure","Mac, Windows",2400.00,,183413.0,92.00,2026-08-31
+816,880940,Pummel Party,2018-09-20,Rebuilt Games,,"Action, Casual, Indie",Windows,690.00,,14435.0,85.00,2026-08-31
+817,2424420,Avatar Legends: The Fighting Game,2026-07-23,Gameplay Group International,"PM Studios, Inc.",Action,Windows,1300.00,,2333.0,91.00,2026-08-31
+820,2141730,Backrooms: Escape Together,2022-10-18,Triiodide Studios,,"Action, Adventure, Casual, Early Access, Indie",Windows,480.00,,14947.0,88.00,2026-08-31
+821,3949550,1666: Amsterdam,2026-08-25,Panache Digital Games,,"Adventure, Early Access",Windows,1214.00,10.00,605.0,66.00,2026-08-31
+822,3105440,Heroes of Might and Magic: Olden Era,2026-04-30,Unfrozen,Hooded Horse,"Early Access, RPG, Strategy",Windows,1499.00,26.00,6444.0,76.00,2026-08-31
+823,4210580,Ore Factory Squad ⛏️,2026-07-16,threeW,PlayWay S.A.,"Indie, Simulation",Windows,635.00,44.00,1442.0,81.00,2026-08-31
+824,286160,Tabletop Simulator,2015-06-05,Berserk Games,,"Casual, Indie, RPG, Simulation, Strategy","Linux, Mac, Windows",880.00,,31838.0,95.00,2026-08-31
+825,3472040,NBA 2K26,2025-09-04,Visual Concepts,2K,Sports,Windows,3999.00,,13623.0,65.00,2026-08-31
+826,1297900,Gothic 1 Remake,2026-06-05,Alkimia Interactive,THQ Nordic,"Action, RPG",Windows,3130.00,,7608.0,85.00,2026-08-31
+827,1145350,Hades II,2025-09-25,Supergiant Games,Supergiant Games,"Action, Indie, RPG","Mac, Windows",1300.00,,65385.0,95.00,2026-08-31
+828,291550,Brawlhalla,2017-10-17,Blue Mammoth Games,Ubisoft,"Action, Free To Play, Indie","Mac, Windows",0.00,,178209.0,55.00,2026-08-31
+829,761890,Albion Online,2017-07-17,Sandbox Interactive GmbH,,"Free To Play, Massively Multiplayer, RPG","Linux, Mac, Windows",0.00,,27473.0,75.00,2026-08-31
+830,960090,Bloons TD 6,2018-12-17,Ninja Kiwi,Ninja Kiwi,Strategy,"Mac, Windows",439.00,,229982.0,96.00,2026-08-31
+831,4128400,eBaseball™: PRO SPIRIT,2026-03-04,KONAMI,KONAMI,"Action, Free To Play, Sports",Windows,0.00,,1535.0,79.00,2026-08-31
+832,2161700,Persona 3 Reload,2024-02-01,ATLUS,SEGA,"Adventure, RPG, Strategy",Windows,3499.00,,23174.0,94.00,2026-08-31
+833,255710,Cities: Skylines,2015-03-10,Colossal Order,Paradox Interactive,"Simulation, Strategy","Linux, Mac, Windows",1859.00,,100609.0,91.00,2026-08-31
+834,4627110,Fell & Sell,2026-08-26,Art Games Studio S.A.,PlayWay S.A.,"Action, RPG, Simulation",Windows,422.00,10.00,774.0,79.00,2026-08-31
+835,1940340,Darkest Dungeon® II,2023-05-08,Red Hook Studios,Red Hook Studios,"Indie, RPG, Strategy","Mac, Windows",527.00,69.00,11959.0,63.00,2026-08-31
+836,2536520,Diablo II: Resurrected – Infernal Edition,2026-02-11,"Blizzard Entertainment, Inc.","Blizzard Entertainment, Inc.","Action, RPG, Strategy",Windows,2999.00,,3504.0,76.00,2026-08-31
+837,1913370,OPERATOR,2023-08-01,VECTOR INTERACTIVE PTY LTD,,"Action, Early Access, Indie, RPG, Simulation, Strategy",Windows,880.00,,6324.0,89.00,2026-08-31
+838,2699230,Grim Dawn - Fangs of Asterkarn,2026-07-23,Crate Entertainment,,"Action, Adventure, Indie, RPG",Windows,885.00,,1256.0,48.00,2026-08-31
+839,4197610,Librarian: Tidy Up the Arcane Library!,2026-04-30,ArtRising,,"Casual, Indie, Simulation",Windows,309.00,,15229.0,94.00,2026-08-31
+840,1790600,DRAGON BALL: Sparking! ZERO,2024-10-10,"Spike Chunsoft Co., Ltd.",Bandai Namco Entertainment,Action,Windows,2999.00,,29372.0,50.00,2026-08-31
+841,985810,GrandChase,2021-07-27,KOG,,"Action, Casual, Free To Play",Windows,0.00,,5305.0,85.00,2026-08-31
+842,2825860,The Sinking City 2,2026-08-18,Frogwares,Frogwares,"Action, Adventure",Windows,3100.00,,1138.0,83.00,2026-08-31
+843,393380,Squad,2020-09-23,Offworld,Offworld,"Action, Indie, Massively Multiplayer, Strategy",Windows,2106.00,,83609.0,80.00,2026-08-31
+844,2399420,Le Mans Ultimate,2025-07-22,Studio 397,Studio 397,"Racing, Simulation, Sports",Windows,3200.00,,6717.0,71.00,2026-08-31
+845,4964110,Darkest Dungeon®: The Fire's Edge,2026-08-18,Red Hook Studios,Red Hook Studios,"Indie, RPG, Strategy","Linux, Mac, Windows",319.00,63.00,177.0,80.00,2026-08-31
+846,594570,Total War: WARHAMMER II,2017-09-28,"CREATIVE ASSEMBLY, Feral Interactive (Linux), Feral Interactive (Mac)",SEGA,"Action, Strategy","Linux, Mac, Windows",2999.00,,50746.0,89.00,2026-08-31
+847,2215200,LEGO® Batman™: Legacy of the Dark Knight,2026-05-22,TT Games,"Warner Bros. Games, Warner Bros. Interactive Entertainment","Action, Adventure",Windows,3899.00,,6464.0,93.00,2026-08-31
+848,714010,Aimlabs,2023-06-16,Statespace,,"Action, Adventure, Casual, Free To Play, Indie, Simulation",Windows,0.00,,66323.0,78.00,2026-08-31
+849,4294490,"KOTAMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000",2026-08-20,KotaMota Games,,"Indie, Simulation",Windows,287.00,20.00,1872.0,80.00,2026-08-31
+850,815370,Green Hell,2019-09-05,Creepy Jar,Creepy Jar,"Action, Adventure, Indie, Simulation",Windows,70.00,90.00,27043.0,79.00,2026-08-31
+851,4113940,Sovereign Tower,2026-08-06,WILD WITS GAMES,Curve Games,"Indie, RPG","Linux, Windows",1149.00,,1313.0,95.00,2026-08-31
+852,3393110,AION 2,2026-10-05,NC,NC,"Action, Adventure, Free To Play, Massively Multiplayer, RPG",Windows,0.00,,,,2026-08-31
+853,766570,Russian Fishing 4,2021-11-10,FishSoft LLC,FishSoft LLC,"Adventure, Casual, Free To Play, Massively Multiplayer, RPG, Simulation, Sports",Windows,0.00,,7573.0,88.00,2026-08-31
+854,1817190,Marvel’s Spider-Man: Miles Morales,2022-11-18,"Insomniac Games, Nixxes Software",PlayStation Publishing LLC,"Action, Adventure",Windows,3299.00,,21102.0,94.00,2026-08-31
+855,12210,Grand Theft Auto IV: The Complete Edition,2020-03-24,"Rockstar North, Rockstar Toronto",Rockstar Games,"Action, Adventure",Windows,999.00,,73223.0,84.00,2026-08-31
+856,244210,Assetto Corsa,2014-12-19,Kunos Simulazioni,505 Games,"Indie, Racing, Simulation, Sports",Windows,880.00,,60244.0,93.00,2026-08-31
+857,1030300,Hollow Knight: Silksong,2025-09-04,Team Cherry,Team Cherry,"Action, Adventure, Indie","Linux, Mac, Windows",880.00,,144799.0,91.00,2026-08-31
+858,3849000,The Lantern of the Laughless Saint,2026-08-17,NerveLabs,NerveLabs,"Action, Adventure, Early Access, RPG",Windows,915.00,,1133.0,88.00,2026-08-31
+859,2209900,Moonlight Peaks,2026-07-06,Little Chicken,"Marvelous Europe, XSEED Games","Casual, Indie, RPG, Simulation","Mac, Windows",2700.00,,1696.0,85.00,2026-08-31
+860,268910,Cuphead,2017-09-29,Studio MDHR Entertainment Inc.,,"Action, Indie","Mac, Windows",565.00,,65846.0,94.00,2026-08-31
+861,1371980,No Rest for the Wicked,2024-04-18,Moon Studios GmbH,Moon Studios GmbH,"Action, Adventure, Early Access, RPG",Windows,1699.00,,27308.0,76.00,2026-08-31
+862,3656800,Train Sim World® 6,2025-09-30,Dovetail Games,Dovetail Games - TSW,Simulation,Windows,1600.00,,968.0,75.00,2026-08-31
+863,703080,Planet Zoo,2019-11-05,Frontier Developments,Frontier Developments,"Casual, Simulation, Strategy",Windows,2149.00,,42820.0,89.00,2026-08-31
+864,3357650,PRAGMATA,2026-04-16,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.","Action, Adventure",Windows,3799.00,,15501.0,94.00,2026-08-31
+865,4026250,Project P.I.T.T.,2026-08-19,Froke,Pretty Soon,"Action, Casual, Indie, Simulation","Linux, Mac, Windows",424.00,15.00,767.0,79.00,2026-08-31
+866,2288340,ACE COMBAT 8: WINGS OF THEVE,2026-10-01,Bandai Namco Aces Inc.,Bandai Namco Entertainment Inc.,Action,Windows,3999.00,,,,2026-08-31
+867,3839790,Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition),2026-07-08,"Cygames, Inc.",,"Action, Adventure, RPG",Windows,1999.00,,1124.0,47.00,2026-08-31
+868,1569580,Blue Prince,2025-04-10,Dogubomb,Raw Fury,"Adventure, Indie, Strategy","Mac, Windows",780.00,40.00,14431.0,83.00,2026-08-31
+869,3557620,Blue Archive,2025-07-03,NEXON Games,NEXON Korea,"Adventure, Casual, Free To Play, RPG, Strategy",Windows,0.00,,12360.0,29.00,2026-08-31
+870,2835570,Buckshot Roulette,2024-04-04,Mike Klubnika,CRITICAL REFLEX,"Action, Indie, Simulation","Linux, Windows",77.00,50.00,35950.0,91.00,2026-08-31
+871,2373990,Solo Leveling: ARISE OVERDRIVE,2025-11-24,Netmarble Neo,,"Action, RPG",Windows,1439.00,40.00,3229.0,74.00,2026-08-31
+872,3347400,GIRLS' FRONTLINE 2: EXILIUM,2025-02-10,"SUNBORN Information Co., Ltd.",,"Action, Adventure, Free To Play, RPG, Strategy",Windows,0.00,,3033.0,85.00,2026-08-31
+873,3164330,Infinity Nikki,2025-04-28,Infold Games,,"Action, Adventure, Casual, Free To Play, RPG, Simulation",Windows,0.00,,5395.0,81.00,2026-08-31
+874,4090980,Escape from Tarkov - The Unheard Steam Edition Expansion Pack,2026-05-20,Battlestate Games,,"Action, Massively Multiplayer, RPG, Simulation",Windows,,,150.0,87.00,2026-08-31
+875,1812450,Bellwright,2024-04-23,Donkey Crew,"Donkey Crew, Snail Games USA","Action, Early Access, RPG, Simulation, Strategy",Windows,858.00,34.00,10311.0,75.00,2026-08-31
+876,2764370,Starward,2024-04-24,Game Blender,,"Action, Adventure, Free To Play, Massively Multiplayer, RPG",Windows,0.00,,1015.0,64.00,2026-08-31
+877,3404260,Dead as Disco,2026-05-05,"Brain Jar Games, Inc.",,"Action, Early Access, Indie",Windows,1149.00,,7986.0,95.00,2026-08-31
+878,4075620,Combolands: Roguelike Citybuilder,2026-08-24,Crux Games,,"Indie, Strategy",Windows,399.00,20.00,728.0,97.00,2026-08-31
+879,3092660,Reverse: 1999,2024-10-08,"BLUEPOCH GAMES CO., LIMITED",,"Free To Play, RPG",Windows,0.00,,3500.0,88.00,2026-08-31
+880,3767850,SpiritVale,2026-07-15,Baikun Interactive,,"Action, Early Access, Indie, Massively Multiplayer, RPG",Windows,699.00,,1567.0,50.00,2026-08-31
+881,3008130,Dying Light: The Beast,2025-09-18,Techland,Techland,"Action, Adventure, RPG",Windows,3360.00,,26430.0,81.00,2026-08-31
+882,367520,Hollow Knight,2017-02-24,Team Cherry,Team Cherry,"Action, Adventure, Indie","Linux, Mac, Windows",690.00,,183141.0,96.00,2026-08-31
+883,976730,Halo: The Master Chief Collection,2019-12-03,"343 Industries, Bungie, Ruffian Games, Saber Interactive, Splash Damage",Xbox Game Studios,Action,Windows,3349.00,,164220.0,84.00,2026-08-31
+884,1941540,Mafia: The Old Country,2025-08-07,Hangar 13,2K,"Action, Adventure",Windows,2899.00,,9412.0,72.00,2026-08-31
+885,1966720,Lethal Company,2023-10-23,Zeekerss,,"Action, Adventure, Early Access, Indie",Windows,480.00,,276327.0,92.00,2026-08-31
+886,1284190,The Planet Crafter,2024-04-10,Miju Games,Miju Games,Adventure,Windows,1100.00,,37214.0,95.00,2026-08-31
+887,645390,Factorio: Space Age,2024-10-21,Wube Software LTD.,,"Casual, Indie, Simulation, Strategy","Linux, Mac, Windows",1500.00,,4299.0,75.00,2026-08-31
+888,2185060,Two Point Museum,2025-03-04,Two Point Studios,SEGA,"Casual, Indie, Simulation, Strategy","Linux, Mac, Windows",1966.00,3.00,5142.0,95.00,2026-08-31
+889,2322010,God of War Ragnarök,2024-09-19,"Jetpack Interactive, Santa Monica Studio",PlayStation Publishing LLC,"Action, Adventure, RPG",Windows,3999.00,,16099.0,89.00,2026-08-31
+890,2584990,Shadowverse: Worlds Beyond,2025-06-14,"Cygames, Inc.",,"Casual, Free To Play, RPG, Strategy",Windows,0.00,,6569.0,37.00,2026-08-31
+891,1465360,SnowRunner,2021-05-17,Saber Interactive,Focus Entertainment,"Adventure, Simulation","Mac, Windows",1699.00,,18936.0,89.00,2026-08-31
+892,2881650,Content Warning,2024-04-01,"Philip, Skog, thePetHen, Wilnyl, Zorro",Evil Landfall?,"Action, Adventure, Indie",Windows,222.00,38.00,35115.0,89.00,2026-08-31
+893,962130,Grounded,2022-09-27,Obsidian Entertainment,Xbox Game Studios,"Action, Adventure",Windows,2699.00,,41033.0,92.00,2026-08-31
+894,2670630,Supermarket Simulator,2025-06-19,Nokta Games,,"Casual, Indie, Simulation","Mac, Windows",880.00,4.00,34189.0,88.00,2026-08-31
+895,2379780,Balatro,2024-02-20,LocalThunk,Playstack,"Casual, Indie, Strategy","Mac, Windows",690.00,7.00,103898.0,97.00,2026-08-31
+896,1290000,PowerWash Simulator,2022-07-14,FuturLab,FuturLab,"Casual, Indie, Simulation",Windows,400.00,60.00,38436.0,89.00,2026-08-31
+897,1243830,Overcooked! All You Can Eat,2021-03-23,"Ghost Town Games, Team17 Digital",Team17 Digital,"Casual, Indie, Simulation, Strategy",Windows,899.00,70.00,1658.0,77.00,2026-08-31
+898,2781620,Risk of Rain 2: Alloyed Collective,2025-11-18,Gearbox Software,,"Action, Indie",Windows,226.00,35.00,2850.0,58.00,2026-08-31
+899,371970,Barony,2015-06-23,Turning Wheel LLC,,"Action, Adventure, Indie, RPG","Linux, Mac, Windows",880.00,,10121.0,85.00,2026-08-31
+900,2440510,Forza Motorsport,2023-10-09,Turn 10,Xbox Game Studios,Racing,Windows,1999.00,60.00,6011.0,71.00,2026-08-31
+901,3934270,How Many Dudes?,2026-07-30,Butterscotch Shenanigans,Butterscotch Shenanigans,"Casual, Indie, Strategy",Windows,719.00,,1888.0,88.00,2026-08-31
+902,812140,Assassin's Creed® Odyssey,2018-10-05,"Ubisoft Bucharest, Ubisoft Kiev, Ubisoft Montpellier, Ubisoft Montreal, Ubisoft Quebec, Ubisoft Shanghai, Ubisoft Singapore",Ubisoft,"Action, Adventure, RPG",Windows,2999.00,,59808.0,86.00,2026-08-31
+903,427410,Abiotic Factor,2025-07-22,Deep Field Games,Playstack,"Action, Adventure, RPG, Simulation",Windows,1500.00,,28496.0,95.00,2026-08-31
+904,1857950,VEIN,2025-10-24,Ramjet Studios,,"Action, Early Access, RPG, Simulation","Linux, Windows",915.00,17.00,8111.0,83.00,2026-08-31
+905,3024040,Stronghold Crusader: Definitive Edition,2025-07-15,Firefly Studios,Firefly Studios,"Simulation, Strategy",Windows,528.00,40.00,3704.0,92.00,2026-08-31
+906,4012810,STEINS;GATE RE:BOOT,2026-08-19,MAGES. Inc.,"Spike Chunsoft Co., Ltd.","Adventure, Casual",Windows,3149.00,10.00,461.0,86.00,2026-08-31
+907,3159330,Assassin’s Creed Shadows,2025-03-19,"Ubisoft Belgrade, Ubisoft Bordeaux, Ubisoft Bucharest & Craiova, Ubisoft Chengdu, Ubisoft Montpellier, Ubisoft Montreal, Ubisoft Osaka, Ubisoft Philippines, Ubisoft Quebec, Ubisoft Shanghai, Ubisoft Singapore, Ubisoft Sofia, Ubisoft Ukraine",Ubisoft,"Action, Adventure, RPG",Windows,4899.00,,15818.0,64.00,2026-08-31
+908,2479810,Gray Zone Warfare,2024-04-30,"MADFINGER Games, a.s.","MADFINGER Games, a.s.","Action, Early Access, Massively Multiplayer, Simulation",Windows,2399.00,,46651.0,75.00,2026-08-31
+909,1260320,Party Animals,2023-09-20,Recreate Games,,"Action, Casual, Indie",Windows,1124.00,,17136.0,80.00,2026-08-31
+910,1040200,Crime Scene Cleaner,2024-08-14,President Studio,"PlayWay S.A., President Studio","Action, Simulation",Windows,984.00,27.00,15466.0,97.00,2026-08-31
+911,387990,Scrap Mechanic,2026-07-24,Axolot Games,Axolot Games,"Action, Adventure, Indie, Simulation",Windows,1349.00,,47812.0,80.00,2026-08-31
+912,801800,Atomfall,2025-03-27,Rebellion,,"Action, Adventure",Windows,800.00,60.00,3106.0,72.00,2026-08-31
+913,4132330,Pizza House Simulator🍕,2026-08-19,"Broken Lyre Entertainment, Wendigo Games",Devotion Interactive,"Casual, Indie, Simulation, Strategy",Windows,476.00,25.00,325.0,85.00,2026-08-31
+914,4315040,Hearth and Hamlet,2026-08-19,Phorust Studios,"Gamersky Games, Runic Forge","Casual, Simulation, Strategy","Linux, Windows",415.00,5.00,1757.0,80.00,2026-08-31
+915,3156770,Witchfire,2024-09-23,The Astronauts,,"Action, Early Access",Windows,1600.00,,11690.0,87.00,2026-08-31
+916,2527160,Desktop Explorer,2026-07-17,Recurring Dream,"indienova, Recurring Dream","Adventure, Indie, Simulation","Mac, Windows",647.00,20.00,1704.0,95.00,2026-08-31
+917,2840770,Avatar: Frontiers of Pandora™,2024-06-17,"Massive Entertainment – A Ubisoft Studio, Ubisoft Düsseldorf, Ubisoft Montpellier, Ubisoft Reflections, Ubisoft Shanghai, Ubisoft Toronto",Ubisoft,"Action, Adventure",Windows,2099.00,,8677.0,82.00,2026-08-31
+918,1562430,DREDGE,2023-03-30,Black Salt Games,Team17,"Adventure, RPG","Mac, Windows",859.00,60.00,32405.0,95.00,2026-08-31
+919,2001760,Beast of Reincarnation,2026-08-03,GAME FREAK inc.,Fictions,"Action, Adventure, RPG",Windows,2999.00,,1463.0,63.00,2026-08-31
+920,1426300,The Binding of Isaac: Repentance,2021-03-31,"Edmund McMillen, Nicalis, Inc.","Nicalis, Inc.","Action, Adventure, RPG",Windows,1646.00,,6694.0,88.00,2026-08-31
+921,289070,Sid Meier’s Civilization® VI,2016-10-20,"Aspyr (Linux), Aspyr (Mac), Firaxis Games","2K, Aspyr (Linux), Aspyr (Mac)",Strategy,"Linux, Mac, Windows",2499.00,,107386.0,89.00,2026-08-31
+922,3167920,Low-Budget Repairs,2026-08-13,Gray2RGB,"PlayWay S.A., Simplicity Games","Indie, Simulation",Windows,899.00,,555.0,55.00,2026-08-31
+923,2437170,SMITE 2,2024-08-27,Titan Forge Games,,"Action, Adventure, Casual, Early Access, Free To Play, Massively Multiplayer, RPG, Strategy",Windows,0.00,,15300.0,49.00,2026-08-31
+924,1912410,Minecraft Dungeons II,2026-09-29,"‪Double Eleven, Mojang Studios",Xbox Game Studios,"Action, Adventure, RPG",Windows,2399.00,,,,2026-08-31
+925,2244210,Echoes of Aincrad,2026-07-09,Game Studio Inc.,Bandai Namco Entertainment Inc.,"Action, RPG",Windows,3999.00,,2285.0,37.00,2026-08-31
+926,3228590,Deadzone: Rogue,2025-08-11,Prophecy Games,,Action,Windows,550.00,50.00,8617.0,79.00,2026-08-31
+927,2111630,JR EAST Train Simulator,2022-11-14,"ONGAKUKAN Co.,Ltd.",,Simulation,Windows,1799.00,,1221.0,94.00,2026-08-31
+928,3636770,Servant of the Lake,2026-08-13,Rusty Lake,Rusty Lake,"Adventure, Indie","Mac, Windows",415.00,,1305.0,98.00,2026-08-31
+929,2432860,MENACE,2026-02-05,Overhype Studios,Hooded Horse,"Early Access, RPG, Simulation, Strategy",Windows,1124.00,25.00,8403.0,90.00,2026-08-31
+930,767560,War Robots,2018-04-05,MY.GAMES,MY.GAMES,"Action, Free To Play",Windows,0.00,,12628.0,64.00,2026-08-31
+931,4131730,VHOLUME,2026-08-21,"Léonard Lemaitre, Nathan Grange, Niels Tiercelin",,"Casual, Indie",Windows,400.00,,1413.0,97.00,2026-08-31
+932,1466060,Tainted Grail: The Fall of Avalon,2025-05-23,Questline,Awaken Realms,"Action, Adventure, Indie, RPG",Windows,1800.00,,19666.0,83.00,2026-08-31
+933,1167630,Teardown,2022-04-21,Tuxedo Labs,,"Action, Indie, Simulation, Strategy",Windows,1499.00,,75844.0,95.00,2026-08-31
+934,728880,Overcooked! 2,2018-08-07,"Ghost Town Games Ltd., Team17",Team17,"Action, Casual, Indie","Linux, Mac, Windows",569.00,,14543.0,89.00,2026-08-31
+935,3274580,Anno 117: Pax Romana,2025-11-12,Ubisoft Mainz,Ubisoft,"Simulation, Strategy",Windows,4199.00,,5398.0,65.00,2026-08-31
+936,1229490,ULTRAKILL,2020-09-03,"Arsi ""Hakita"" Patala",New Blood Interactive,"Action, Early Access, Indie",Windows,615.00,20.00,149353.0,96.00,2026-08-31
+937,4069520,Super Battle Golf,2026-02-19,Brimstone,Oro Interactive,"Casual, Indie, Sports",Windows,412.00,35.00,7201.0,92.00,2026-08-31
+938,374320,DARK SOULS™ III,2016-04-11,"FromSoftware, Inc.","Bandai Namco Entertainment, FromSoftware, Inc.",Action,Windows,4299.00,,107170.0,92.00,2026-08-31
+939,3052450,Morimens,2024-08-01,B.I.A.V. Studio,,"Free To Play, RPG, Strategy",Windows,0.00,,1843.0,84.00,2026-08-31
+940,1648533,Icarus: Dangerous Horizons Expansion,2026-03-05,RocketWerkz,RocketWerkz,"Action, Adventure, Free To Play, Simulation",Windows,1040.00,20.00,244.0,81.00,2026-08-31
+941,686060,Mewgenics,2026-02-10,"Edmund McMillen, Tyler Glaiel",,"Adventure, Indie, RPG, Simulation, Strategy",Windows,1300.00,,28400.0,81.00,2026-08-31
+942,2131680,METAL GEAR & METAL GEAR 2: Solid Snake,2023-10-24,KONAMI,KONAMI,Action,Windows,1664.00,,745.0,80.00,2026-08-31
+943,1984270,Digimon Story Time Stranger,2025-10-02,Media.Vision Inc.,Bandai Namco Entertainment Inc.,RPG,Windows,3999.00,,8144.0,82.00,2026-08-31
+944,3196440,Vacation Cafe Simulator,2026-08-20,Alice Games,Alice Games,"Casual, Indie, Simulation",Windows,704.00,20.00,565.0,87.00,2026-08-31
+945,1206560,WorldBox - God Simulator,2021-12-02,Maxim Karpenko,,"Early Access, Indie, Simulation","Linux, Mac, Windows",880.00,,29493.0,95.00,2026-08-31
+946,784150,Workers & Resources: Soviet Republic,2024-06-20,3Division,Hooded Horse,"Simulation, Strategy",Windows,374.00,75.00,8729.0,91.00,2026-08-31
+947,431240,Golf With Your Friends,2020-05-19,"Blacklight Interactive, Team17",Team17,"Casual, Indie, Sports","Linux, Mac, Windows",112.00,90.00,37267.0,76.00,2026-08-31
+948,454650,DRAGON BALL XENOVERSE 2,2016-10-27,"Dimps Corporation, QLOC",Bandai Namco Entertainment,"Action, Adventure, Casual, Massively Multiplayer",Windows,1199.00,,19465.0,88.00,2026-08-31
+949,1607250,MY HERO ULTRA RUMBLE,2023-09-28,Byking Inc.,Bandai Namco Entertainment,"Action, Casual, Free To Play",Windows,0.00,,13062.0,69.00,2026-08-31
+950,513710,SCUM,2025-06-17,Gamepires,,"Action, Adventure, Indie, Massively Multiplayer",Windows,2375.00,,38003.0,76.00,2026-08-31
+951,400750,Call to Arms - Gates of Hell: Ostfront,2021-06-11,"Barbedwire Studios, Digitalmindsoft",Digitalmindsoft,"Action, Simulation, Strategy",Windows,1500.00,,13190.0,85.00,2026-08-31
+952,4423580,Shadow Dungeon,2026-08-26,OO Cat,,"Action, Adventure, RPG",Windows,449.00,10.00,942.0,80.00,2026-08-31
+953,242760,The Forest,2018-04-30,Endnight Games Ltd,Endnight Games Ltd,"Action, Adventure, Indie, Simulation",Windows,529.00,,177513.0,94.00,2026-08-31
+954,1805110,Solarpunk™,2026-06-08,Cyberwave,"Metaroot, rokaplay","Adventure, Indie, Simulation",Windows,1027.00,30.00,1839.0,77.00,2026-08-31
+955,1934680,Age of Mythology: Retold,2024-09-04,"CaptureAge, Forgotten Empires, Tantalus Media, Virtuos Games, World's Edge",Xbox Game Studios,Strategy,Windows,1499.00,,10365.0,90.00,2026-08-31
+956,2948190,World of Sea Battle,2025-10-21,Thera Interactive,,"Action, Early Access, Free To Play, Massively Multiplayer, RPG",Windows,0.00,,3362.0,76.00,2026-08-31
+957,1273400,Construction Simulator,2022-09-20,weltenbauer. Software Entwicklung GmbH,astragon Entertainment,"Casual, Simulation",Windows,330.00,70.00,3486.0,77.00,2026-08-31
+958,2138720,REMATCH,2025-06-19,Sloclap,"Kepler Interactive, Sloclap","Action, Indie, Sports",Windows,850.00,50.00,16956.0,73.00,2026-08-31
+959,1282270,Strinova,2024-11-21,iDreamSky,,"Action, Free To Play, Massively Multiplayer",Windows,0.00,,11172.0,75.00,2026-08-31
+960,2749950,Esports Manager 2026,2026-07-06,Neurona Games,indie.io,"Indie, Simulation, Sports, Strategy",Windows,704.00,20.00,686.0,70.00,2026-08-31
+961,246620,Plague Inc: Evolved,2016-02-18,Ndemic Creations,Ndemic Creations,"Casual, Indie, Simulation, Strategy","Linux, Mac, Windows",95.00,80.00,26944.0,92.00,2026-08-31
+962,582010,Monster Hunter: World,2018-08-08,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",Action,Windows,1997.00,,115673.0,91.00,2026-08-31
+963,3946950,Click the Button,2026-08-26,LoopCap,,"Casual, Indie, Simulation",Windows,68.00,16.00,827.0,91.00,2026-08-31
+964,4584110,Soul Land: Awakening World,2026-06-01,37GAMES,,"Action, Adventure, Free To Play, Massively Multiplayer, RPG",Windows,0.00,,413.0,45.00,2026-08-31
+965,1462040,FINAL FANTASY VII REMAKE INTERGRADE,2022-06-17,Square Enix,Square Enix,"Action, Adventure, RPG",Windows,2499.00,,20894.0,80.00,2026-08-31
+966,364360,Total War: WARHAMMER,2016-05-24,"CREATIVE ASSEMBLY, Feral Interactive (Linux), Feral Interactive (Mac)",SEGA,"Action, Strategy","Linux, Mac, Windows",2999.00,,18170.0,91.00,2026-08-31
+967,1687950,Persona 5 Royal,2022-10-20,ATLUS,SEGA,RPG,Windows,4399.00,,35533.0,95.00,2026-08-31
+968,3167020,Escape From Duckov,2025-10-16,Team Soda,bilibili,"Action, Adventure, Indie, RPG","Mac, Windows",915.00,20.00,10570.0,88.00,2026-08-31
+969,2385530,PGA TOUR 2K25,2025-02-27,HB Studios,2K,"RPG, Simulation, Sports",Windows,1498.00,55.00,3419.0,69.00,2026-08-31
+970,1286220,Sea Power : Naval Combat in the Missile Age,2024-11-12,Triassic Games,MicroProse Software,"Action, Early Access, Simulation, Strategy",Windows,1600.00,20.00,3818.0,91.00,2026-08-31
+971,9900,Star Trek Online,2010-02-02,Cryptic Studios,Arc Games,"Free To Play, Massively Multiplayer, RPG",Windows,0.00,,16850.0,75.00,2026-08-31
+972,3641000,The Incident at Galley House,2026-07-14,"Evil Trout Inc., William Rous",,Adventure,"Linux, Mac, Windows",915.00,9.00,2309.0,92.00,2026-08-31
+973,4324480,Dirty Business,2026-07-22,Plan Dirty Games,,"Early Access, Simulation",Windows,719.00,,809.0,78.00,2026-08-31
+974,1041320,Lords Mobile: Kingdom Wars,2019-06-02,IGG SINGAPORE PTE. LTD.,,"Free To Play, Massively Multiplayer, RPG, Strategy",Windows,0.00,,1765.0,65.00,2026-08-31
+975,602960,Barotrauma,2023-03-13,"FakeFish, Undertow Games",Daedalic Entertainment,"Action, Indie, Simulation, Strategy","Linux, Mac, Windows",745.00,50.00,28669.0,93.00,2026-08-31
+976,1336490,Against the Storm,2023-12-08,Eremite Games,Hooded Horse,"Simulation, Strategy",Windows,299.00,70.00,18996.0,89.00,2026-08-31
+977,2071280,Ravenswatch,2024-09-26,Passtech Games,Nacon,"Action, Adventure",Windows,650.00,50.00,8303.0,81.00,2026-08-31
+978,4369130,Chop Chop Inc.,2026-08-07,NullRef Entertainment,rokaplay select,Adventure,Windows,635.00,,993.0,89.00,2026-08-31
+979,391540,Undertale,2015-09-15,tobyfox,tobyfox,"Indie, RPG","Linux, Mac, Windows",369.00,,155971.0,95.00,2026-08-31
+980,4992070,Sort Them Ducks,2026-08-13,Mr.Duck,,"Casual, Simulation",Windows,309.00,5.00,1127.0,91.00,2026-08-31
+981,3935020,Backyard Baseball,2026-07-09,Mega Cat Studios,,"Action, Adventure, Casual, Indie, RPG, Simulation, Sports","Mac, Windows",1600.00,,1150.0,86.00,2026-08-31
+982,3552140,Retro Rewind - Video Store Simulator,2026-03-17,Blood Pact Studios,,"Casual, Indie, Simulation",Windows,890.00,9.00,7601.0,93.00,2026-08-31
+983,1431300,SAND: Raiders of Sophie,2026-06-22,"Hologryph, TowerHaus",tinyBuild,"Action, Adventure, Early Access",Windows,509.00,,7768.0,41.00,2026-08-31
+984,993090,Lossless Scaling,2018-12-28,THS,,Utilities,Windows,345.00,,16434.0,92.00,2026-08-31
+985,3948120,Scritchy Scratchy,2026-03-18,Lunch Money Games,Funday Games,"Casual, Indie, Simulation","Mac, Windows",194.00,,7973.0,92.00,2026-08-31
+986,544810,KARDS - The WW2 Card Game,2020-04-15,1939 Games,,"Casual, Free To Play, Indie, Strategy",Windows,0.00,,10415.0,53.00,2026-08-31
+987,2780810,Euro Truck Simulator 2 - Nordic Horizons,2025-11-27,SCS Software,SCS Software,"Indie, Simulation","Linux, Mac, Windows",850.00,,1238.0,78.00,2026-08-31
+988,322170,Geometry Dash,2014-12-22,RobTop Games,,"Action, Indie","Mac, Windows",250.00,,298151.0,91.00,2026-08-31
+989,2881150,ARK: Bob's Tall Tales,2024-04-01,"Grove Street Games, Instinct Games, Studio Wildcard","Snail Games USA, Studio Wildcard","Action, Adventure, Indie, Massively Multiplayer, RPG",Windows,819.00,67.00,1396.0,48.00,2026-08-31
+990,1384160,GUILTY GEAR -STRIVE-,2021-06-11,Arc System Works,Arc System Works,Action,Windows,2595.00,,32776.0,84.00,2026-08-31
+991,3219030,Planet Zoo 2,2026-10-13,Frontier Developments,Frontier Developments,"Simulation, Strategy",Windows,2549.00,,,,2026-08-31
+992,2325290,Sky: Children of the Light,2024-04-10,thatgamecompany,,"Adventure, Casual, Early Access, Free To Play, Indie, Massively Multiplayer, RPG",Windows,0.00,,11895.0,84.00,2026-08-31
+993,3834090,YAPYAP,2026-02-03,Maison Bap,Maison Bap,Action,"Mac, Windows",480.00,3.00,3762.0,79.00,2026-08-31
+994,4433900,DRAGON BALL: Sparking! ZERO - Super Limit-Breaking NEO,2026-07-29,"Spike Chunsoft Co., Ltd.",Bandai Namco Entertainment,Action,Windows,2909.00,,328.0,58.00,2026-08-31
+995,4212480,Ragnarok: The New World,2026-07-26,Gravity Game Vision Limited,,"Action, Adventure, Free To Play, Massively Multiplayer, RPG",Windows,0.00,,968.0,36.00,2026-08-31
+996,805550,Assetto Corsa Competizione,2019-05-29,Kunos Simulazioni,505 Games,"Racing, Simulation, Sports",Windows,2799.00,,14598.0,94.00,2026-08-31
+997,2622000,Astral Party,2024-02-28,STAR ENGINE PROJECT,Neverland Entertainment,"Casual, Indie, RPG, Strategy",Windows,0.00,,1850.0,54.00,2026-08-31
+998,2379740,Wizardry Variants Daphne,2025-03-05,"Drecom Co., Ltd.","Drecom Co., Ltd.",RPG,Windows,0.00,,1394.0,62.00,2026-08-31
+999,2124120,SULFUR,2024-10-28,Perfect Random,Perfect Random,"Action, Adventure, Early Access, Indie, RPG, Simulation",Windows,550.00,50.00,5730.0,87.00,2026-08-31
+1000,2646460,Soulmask,2026-04-09,CampFire Studio,,"Adventure, Indie, RPG, Simulation",Windows,844.00,35.00,7573.0,69.00,2026-08-31
+1001,3022790,RimWorld - Odyssey,2025-07-11,Ludeon Studios,Ludeon Studios,"Indie, Simulation, Strategy","Linux, Mac, Windows",1100.00,,2005.0,62.00,2026-08-31
+1002,401920,The Binding of Isaac: Afterbirth,2015-10-30,"Edmund McMillen, Nicalis, Inc.",,"Action, Adventure","Linux, Mac, Windows",379.00,,3738.0,90.00,2026-08-31
+1003,3551340,Football Manager 26,2025-11-04,Sports Interactive,SEGA,"Simulation, Sports, Strategy","Mac, Windows",4499.00,,9220.0,56.00,2026-08-31
+1004,3981100,Leaf it Alone,2025-10-30,Eternity,,"Casual, Indie, Simulation",Windows,300.00,30.00,3242.0,92.00,2026-08-31
+1005,529340,Victoria 3,2022-10-25,Paradox Development Studio,Paradox Interactive,"Simulation, Strategy","Linux, Mac, Windows",3139.00,,20670.0,68.00,2026-08-31
+1006,236850,Europa Universalis IV,2013-08-13,"Paradox Development Studio, Paradox Tinto",Paradox Interactive,"Simulation, Strategy","Linux, Mac, Windows",3139.00,,47784.0,87.00,2026-08-31
+1007,4073860,Sludgineers,2026-08-25,"Funk Games, Snickerdoodle Games","Funk Games, Gamersky Games","Casual, Simulation","Linux, Mac, Windows",263.00,20.00,986.0,84.00,2026-08-31
+1008,933110,Age of Empires III: Definitive Edition,2020-10-15,"Forgotten Empires, Tantalus Media, World's Edge",Xbox Game Studios,Strategy,Windows,2099.00,15.00,13741.0,92.00,2026-08-31
+1009,3561220,Pass the Fear,2026-07-22,PlayMud Studio,,"Action, Adventure, Casual, Indie, RPG, Simulation, Strategy",Windows,799.00,,2850.0,78.00,2026-08-31
+1010,1604030,V Rising,2024-05-08,Stunlock Studios,Stunlock Studios,"Action, Adventure, Massively Multiplayer",Windows,1500.00,5.00,54941.0,88.00,2026-08-31
+1011,457140,Oxygen Not Included,2019-07-30,Klei Entertainment,Klei Entertainment,"Indie, Simulation","Linux, Mac, Windows",569.00,,49402.0,93.00,2026-08-31
+1012,3669870,CONTROL Resonant,2026-09-24,Remedy Entertainment,Remedy Entertainment,"Action, Adventure, RPG",Windows,3599.00,,,,2026-08-31
+1013,288470,Fable Anniversary,2014-09-12,Lionhead Studios,Xbox Game Studios,RPG,Windows,230.00,70.00,8778.0,86.00,2026-08-31
+1014,570940,DARK SOULS™: REMASTERED,2018-05-23,"FromSoftware, Inc., QLOC","Bandai Namco Entertainment, FromSoftware, Inc.",Action,Windows,2399.00,,48908.0,92.00,2026-08-31
+1015,633230,NARUTO TO BORUTO: SHINOBI STRIKER,2018-08-31,Soleil Ltd.,Bandai Namco Entertainment,Action,Windows,299.00,75.00,17733.0,76.00,2026-08-31
+1016,4232510,Broken Arrow: Russian Guard,2026-08-31,Steel Balalaika,Slitherine Ltd.,Strategy,Windows,499.00,,147.0,81.00,2026-08-31
+1017,3097560,Liar's Bar,2024-10-02,Curve Animation,,"Casual, Early Access, Indie, Simulation, Strategy",Windows,345.00,,15256.0,81.00,2026-08-31
+1018,1129580,Medieval Dynasty,2021-09-23,Render Cube,Toplitz Productions,"Action, Adventure, Indie, RPG, Simulation",Windows,1490.00,5.00,19311.0,88.00,2026-08-31
+1019,3440070,Dinoblade,2026-07-23,Team Spino LLC,Boltray Games,"Action, Indie, RPG",Windows,915.00,3.00,1660.0,89.00,2026-08-31
+1020,799960,Wizard101,2008-09-02,KingsIsle Entertainment,"gamigo group, KingsIsle Entertainment","Adventure, Casual, Free To Play, Massively Multiplayer, RPG, Strategy",Windows,0.00,,8616.0,76.00,2026-08-31
+1021,4800590,Supermarket Chaos,2026-06-29,BunnyHop,,"Indie, Simulation",Windows,259.00,6.00,1345.0,92.00,2026-08-31
+1022,285900,Gang Beasts,2017-12-12,"Boneloaf, Rocket Science",Boneloaf,"Action, Adventure, Casual, Indie, Simulation","Linux, Mac, Windows",359.00,60.00,25849.0,86.00,2026-08-31
+1023,107410,Arma 3,2013-09-12,Bohemia Interactive,Bohemia Interactive,"Action, Simulation, Strategy","Mac, Windows",2099.00,20.00,111250.0,89.00,2026-08-31
+1024,1324780,Easy Red 2,2020-11-10,Marco Amadei,,"Action, Indie, Simulation, Strategy","Linux, Mac, Windows",469.00,11.00,6595.0,92.00,2026-08-31
+1025,1119730,"Ranch Simulator: Build, Hunt, Farm",2023-11-03,Toxic Dog,Excalibur Games,Simulation,Windows,85.00,85.00,11913.0,78.00,2026-08-31
+1026,447040,Watch_Dogs® 2,2016-11-28,Ubisoft,Ubisoft,"Action, Adventure",Windows,2999.00,,27210.0,80.00,2026-08-31
+1027,3840050,Cult of the Lamb: Woolhaven,2026-01-22,Massive Monster,Devolver Digital,"Action, Adventure, Indie, Strategy","Mac, Windows",770.00,,1204.0,90.00,2026-08-31
+1028,780310,The Riftbreaker,2021-10-14,EXOR Studios,"EXOR Studios, Surefire.Games","Action, Adventure, Indie, RPG, Simulation, Strategy",Windows,390.00,70.00,9427.0,90.00,2026-08-31
+1029,233860,Kenshi,2018-12-06,Lo-Fi Games,Lo-Fi Games,"Action, Indie, RPG, Simulation, Strategy",Windows,280.00,60.00,48493.0,96.00,2026-08-31
+1030,4244510,Pratfall,2026-04-20,Quad Head,,"Action, Adventure, Indie",Windows,359.00,16.00,863.0,88.00,2026-08-31
+1031,552500,Warhammer: Vermintide 2,2018-03-08,Fatshark,Fatshark,"Action, Indie, RPG",Windows,260.00,80.00,43949.0,84.00,2026-08-31
+1032,784080,MechWarrior 5: Mercenaries,2021-05-26,Piranha Games Inc.,,"Action, Simulation",Windows,699.00,,10887.0,82.00,2026-08-31
+1033,1826140,RimWorld - Biotech,2022-10-21,Ludeon Studios,Ludeon Studios,"Indie, Simulation, Strategy","Linux, Mac, Windows",1100.00,,2034.0,81.00,2026-08-31
+1034,2737070,Crime Simulator,2025-06-17,CookieDev,"PlayWay S.A., Ultimate Games S.A.","Action, Indie, Simulation",Windows,599.00,,2202.0,79.00,2026-08-31
+1035,1062090,Timberborn,2026-03-12,Mechanistry,Mechanistry,"Indie, Simulation, Strategy","Mac, Windows",1500.00,,23857.0,96.00,2026-08-31
+1036,588650,Dead Cells,2018-08-06,Motion Twin,Motion Twin,"Action, Adventure, Indie","Linux, Mac, Windows",629.00,,44368.0,96.00,2026-08-31
+1037,3065800,Marathon,2026-03-05,Bungie,Bungie,Action,Windows,2449.00,,36164.0,61.00,2026-08-31
+1038,1190000,Car Mechanic Simulator 2021,2021-08-11,Red Dot Games,PlayWay S.A.,"Racing, Simulation",Windows,1100.00,32.00,16972.0,94.00,2026-08-31
+1039,1605850,ZeroSpace,2026-07-20,"Ironward, Starlance Studios",Gamersky Games,"Action, Early Access, Indie, Massively Multiplayer, RPG, Simulation, Strategy",Windows,1649.00,,1094.0,85.00,2026-08-31
+1040,701160,Kingdom Two Crowns,2018-12-11,"Coatsink, Fury Studios",Raw Fury,"Adventure, Indie, Simulation, Strategy","Linux, Mac, Windows",176.00,80.00,10091.0,89.00,2026-08-31
+1041,1783560,The Last Caretaker,2025-11-06,Channel37 Ltd,Channel37 Ltd,"Action, Adventure, Early Access, Indie, Simulation",Windows,1429.00,,8364.0,90.00,2026-08-31
+1042,1621690,Core Keeper,2024-08-27,Pugstorm,Fireshine Games,"Action, Adventure, Indie, RPG, Simulation","Linux, Windows",880.00,21.00,23478.0,90.00,2026-08-31
+1043,534380,Dying Light 2 Stay Human: Reloaded Edition,2022-02-03,Techland,Techland,"Action, Adventure, RPG",Windows,2999.00,,69049.0,72.00,2026-08-31
+1044,4558480,ARK Tides of Fortune,2026-07-03,Studio Wildcard,"Snail Games USA, Studio Wildcard","Action, Adventure, Indie, Massively Multiplayer, RPG",Windows,1900.00,67.00,493.0,28.00,2026-08-31
+1045,220200,Kerbal Space Program,2015-04-27,Squad,,"Indie, Simulation","Linux, Mac, Windows",1599.00,,83804.0,98.00,2026-08-31
+1046,974480,Echoes of Mystralia,2026-08-11,Borealys Games,Borealys Games,"Action, Adventure, Early Access, Indie, RPG",Windows,915.00,,557.0,83.00,2026-08-31
+1047,2333480,RAID: Shadow Legends,2024-01-09,Plarium Global Ltd,,"Free To Play, Massively Multiplayer, RPG, Strategy",Windows,0.00,,1425.0,57.00,2026-08-31
+1048,4731620,Fortune Mill,2026-06-02,Lavaflame2,Lavaflame2,"Casual, Indie, Simulation","Mac, Windows",415.00,,2090.0,83.00,2026-08-31
+1049,585420,Trailmakers,2019-09-18,Flashbulb,Flashbulb,"Action, Adventure, Indie, Racing, Simulation",Windows,569.00,50.00,23188.0,92.00,2026-08-31
+1050,264710,Subnautica,2018-01-23,Unknown Worlds Entertainment,Unknown Worlds Entertainment,"Adventure, Indie","Mac, Windows",1800.00,,188753.0,96.00,2026-08-31
+1051,2495100,Hello Kitty Island Adventure,2025-01-30,Sunblink,,"Action, Adventure, Casual, Indie, RPG, Simulation",Windows,2174.00,,6191.0,93.00,2026-08-31
+1052,4394810,DAVE THE DIVER - In the Jungle Content Pack,2026-06-18,MINTROCKET,,"Adventure, Casual, RPG, Simulation","Mac, Windows",440.00,,1900.0,76.00,2026-08-31
+1053,204100,Max Payne 3,2012-05-31,Rockstar Studios,Rockstar Games,Action,Windows,329.00,70.00,24706.0,88.00,2026-08-31
+1054,3419520,Quarantine Zone: The Last Check,2026-01-12,Brigada Games,Devolver Digital,"Indie, Simulation, Strategy",Windows,880.00,61.00,5652.0,75.00,2026-08-31
+1055,2530470,Garden of Witches,2026-08-28,Team Tapas,,"Action, Indie, RPG",Windows,595.00,30.00,1562.0,88.00,2026-08-31
+1056,4121170,Fears to Fathom® - Scratch Creek,2026-06-10,Rayll,Rayll Studios,"Adventure, Casual, Indie",Windows,415.00,,3312.0,72.00,2026-08-31
+1057,570660,The Binding of Isaac: Afterbirth+,2017-01-03,"Edmund McMillen, Nicalis, Inc.","Nicalis, Inc.","Action, Adventure, Indie","Linux, Mac, Windows",1187.00,,3187.0,59.00,2026-08-31
+1058,1145360,Hades,2020-09-17,Supergiant Games,Supergiant Games,"Action, Indie, RPG","Mac, Windows",1100.00,,142256.0,95.00,2026-08-31
+1059,690830,Foundation,2025-01-31,Polymorph Games,Polymorph Games,"Indie, Simulation, Strategy",Windows,1005.00,33.00,11183.0,90.00,2026-08-31
+1060,3558600,Leafy Corner,2026-07-30,Fireline Games,Fireline Games,"Casual, Indie, Simulation","Mac, Windows",429.00,13.00,1086.0,96.00,2026-08-31
+1061,1133870,Space Engineers 2,2025-01-27,Keen Software House,Keen Software House,"Action, Early Access, Indie, Simulation, Strategy",Windows,2699.00,,3418.0,73.00,2026-08-31
+1062,1617400,The Bazaar,2025-08-13,Tempo,,Strategy,"Mac, Windows",880.00,,6054.0,58.00,2026-08-31
+1063,2879840,Escape Simulator 2,2025-10-27,Pine Studio,Pine Studio,"Adventure, Casual, Indie, Simulation","Mac, Windows",899.00,,1890.0,91.00,2026-08-31
+1064,4558490,ARK: Dragontopia,2026-07-03,Studio Wildcard,"Snail Games USA, Studio Wildcard","Action, Adventure, Indie, Massively Multiplayer, RPG",Windows,2861.00,,194.0,18.00,2026-08-31
+1065,548430,Deep Rock Galactic,2020-05-13,Ghost Ship Games,Coffee Stain Publishing,Action,Windows,939.00,16.00,170927.0,93.00,2026-08-31
+1066,508440,Totally Accurate Battle Simulator,2021-04-01,Landfall,Landfall,"Indie, Simulation, Strategy","Mac, Windows",305.00,66.00,84338.0,97.00,2026-08-31
+1067,2524850,Denshattack!,2026-07-15,Undercoders,"Boltray Games, Fireshine Games","Action, Adventure",Windows,1099.00,18.00,1894.0,98.00,2026-08-31
+1068,1066890,Automobilista 2,2020-03-31,Reiza Studios,Reiza Studios,"Action, Indie, Racing, Simulation, Sports","Linux, Windows",899.00,,5631.0,85.00,2026-08-31
+1069,3214610,Cinderia,2026-03-30,MyACG Studio,NPC Entertainment,"Action, Adventure, Early Access, Indie, RPG",Windows,648.00,20.00,758.0,89.00,2026-08-31
+1070,593600,PixARK,2019-05-31,Snail Games USA,Snail Games USA,"Action, Adventure, Casual, Massively Multiplayer, RPG, Strategy",Windows,220.00,75.00,3235.0,55.00,2026-08-31
+1071,4742640,DragonSword Awakening - Deluxe Pack,2026-07-22,Hound13 Inc.,,"Action, Adventure, RPG",Windows,1259.00,,65.0,76.00,2026-08-31
+1072,214950,Total War: ROME II - Emperor Edition,2013-09-02,"CREATIVE ASSEMBLY, Feral Interactive",SEGA,Strategy,"Mac, Windows",2699.00,,32152.0,91.00,2026-08-31
+1073,1113120,IXION,2022-12-07,Bulwark Studios,Kasedo Games,"Indie, Simulation, Strategy",Windows,450.00,70.00,8000.0,84.00,2026-08-31
+1074,960170,DJMAX RESPECT V,2020-03-11,NEOWIZ,NEOWIZ,"Action, Casual, Sports",Windows,3199.00,,4194.0,88.00,2026-08-31
+1075,2679460,Metaphor: ReFantazio,2024-10-10,ATLUS,SEGA,"Action, Adventure, RPG",Windows,5699.00,,13978.0,85.00,2026-08-31
+1076,8500,EVE Online,2003-05-05,Fenris Creations,Fenris Creations,"Action, Free To Play, Massively Multiplayer, RPG, Strategy","Mac, Windows",0.00,,23220.0,69.00,2026-08-31
+1077,3450310,Europa Universalis V,2025-11-04,Paradox Tinto,Paradox Interactive,Strategy,Windows,3789.00,,13659.0,55.00,2026-08-31
+1078,541570,Sally Face - Episode One,2016-12-14,Portable Moose,Portable Moose,"Adventure, Indie","Linux, Mac, Windows",155.00,,9483.0,97.00,2026-08-31
+1079,2060160,The Farmer Was Replaced,2025-10-10,Timon Herzog,Metaroot,"Casual, Indie, Simulation, Strategy","Mac, Windows",480.00,4.00,3999.0,93.00,2026-08-31
+1080,2285550,Doloc Town,2026-08-05,RedSaw Games Studio,,"Adventure, Casual, Indie, RPG, Simulation",Windows,848.00,13.00,625.0,91.00,2026-08-31
+1081,2486820,Sonic Racing: CrossWorlds,2025-09-25,Sonic Team,SEGA,"Action, Adventure, Racing",Windows,5699.00,,8473.0,85.00,2026-08-31
+1082,2059170,Quasimorph,2026-07-31,Magnum Scriptum,HypeTrain Digital,"Action, Adventure, Indie, RPG, Simulation, Strategy",Windows,1149.00,,4133.0,75.00,2026-08-31
+1083,435150,Divinity: Original Sin 2 - Definitive Edition,2017-09-14,Larian Studios,Larian Studios,"Adventure, RPG, Strategy","Mac, Windows",989.00,,83485.0,91.00,2026-08-31
+1084,477160,Human Fall Flat,2016-07-22,No Brakes Games,Curve Games,"Adventure, Casual, Indie, Simulation","Mac, Windows",529.00,9.00,30820.0,93.00,2026-08-31
+1085,2739990,Mahjong Soul,2024-07-23,Catfood Studio,,"Casual, Strategy",Windows,0.00,,2296.0,77.00,2026-08-31
+1086,359320,Elite Dangerous,2015-04-02,Frontier Developments,Frontier Developments,"Action, Adventure, Massively Multiplayer, RPG, Simulation, Strategy",Windows,264.00,70.00,53433.0,69.00,2026-08-31
+1087,3720100,ARK: Lost Colony Expansion Pass,2025-06-18,Studio Wildcard,"Snail Games USA, Studio Wildcard","Action, Adventure, Indie, Massively Multiplayer, RPG",Windows,1268.00,50.00,1112.0,30.00,2026-08-31
+1088,312520,Rain World,2017-03-28,Videocult,Akupara Games,"Action, Adventure, Indie",Windows,946.00,34.00,30320.0,90.00,2026-08-31
+1089,2306620,Risk of Rain 2: Seekers of the Storm,2024-08-27,Gearbox Software,"2K, Gearbox Publishing","Action, Indie",Windows,174.00,50.00,9643.0,54.00,2026-08-31
+1090,2416450,MOUSE: P.I. For Hire,2026-04-16,Fumi Games,PlaySide,"Action, Indie",Windows,1300.00,,9041.0,89.00,2026-08-31
+1091,3364070,The Jackbox Party Pack 11,2025-10-22,"Jackbox Games, Inc.","Jackbox Games, Inc.","Adventure, Casual, Indie, RPG, Simulation, Strategy","Linux, Mac, Windows",975.00,25.00,414.0,92.00,2026-08-31
+1092,1631270,StarRupture,2026-01-06,Creepy Jar,Creepy Jar,"Action, Adventure, Early Access, Indie, Simulation",Windows,1087.00,20.00,6810.0,77.00,2026-08-31
+1093,2625420,Drive Beyond Horizons,2025-03-24,Drive Beyond Horizons,,"Action, Adventure, Casual, Early Access, Indie, Racing, Simulation",Windows,1100.00,,7085.0,77.00,2026-08-31
+1094,1144400,Senren＊Banka,2020-02-14,YUZUSOFT,"HIKARI FIELD, NekoNyan Ltd.","Adventure, Casual",Windows,394.00,48.00,846.0,97.00,2026-08-31
+1095,2113850,Spirit City: Lofi Sessions,2024-04-08,Mooncube Games,Mooncube Games,"Casual, Indie, Simulation","Mac, Windows",170.00,60.00,8956.0,95.00,2026-08-31
+1096,4560660,Eslabong,2026-08-24,shirowita,,"Action, Early Access, Indie, Simulation, Strategy",Windows,611.00,15.00,548.0,95.00,2026-08-31
+1097,1721470,Poppy Playtime,2021-10-12,Mob Entertainment,,"Action, Adventure, Indie",Windows,0.00,,62147.0,92.00,2026-08-31
+1098,2057760,Esoteric Ebb,2026-03-03,Christoffer Bodegård,Raw Fury,"Indie, RPG",Windows,1100.00,18.00,6787.0,93.00,2026-08-31
+1099,872410,ROMANCE OF THE THREE KINGDOMS XIV,2020-01-15,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",Simulation,Windows,3799.00,,673.0,61.00,2026-08-31
+1100,2679100,Witchspire,2026-06-10,Envar Games,,"Adventure, Early Access, RPG",Windows,1012.00,5.00,1764.0,83.00,2026-08-31
+1101,1876890,Wandering Sword,2023-09-14,The Swordman Studio,Spiral Up Games,"Adventure, Indie, RPG, Strategy",Windows,1100.00,,2339.0,93.00,2026-08-31
+1102,4005220,Deep Blue Sushi,2026-08-20,PaperPixel Games,PaperPixel Games,"Action, Adventure, Casual, Early Access, Indie, Simulation",Windows,647.00,10.00,152.0,75.00,2026-08-31
+1103,1766060,HumanitZ,2026-02-06,Yodubzz Studios,indie.io,"Action, Adventure, RPG",Windows,572.00,35.00,4349.0,69.00,2026-08-31
+1104,1733690,Mandate Order,2026-08-11,Digital Sky,Digital Sky,"Early Access, Indie, Simulation, Strategy",Windows,880.00,,1025.0,81.00,2026-08-31
+1105,244850,Space Engineers,2019-02-28,Keen Software House,Keen Software House,"Action, Indie, Simulation, Strategy",Windows,1799.00,,67701.0,75.00,2026-08-31
+1106,1096900,RPG Maker MZ,2020-08-27,"Gotcha Gotcha Games, KADOKAWA, Yoji Ojima",Gotcha Gotcha Games,"Design & Illustration, Education, Game Development, RPG, Web Publishing","Mac, Windows",1222.00,68.00,1954.0,81.00,2026-08-31
+1107,2918150,ONE PIECE Bounty Rush,2024-09-23,SEGA,Bandai Namco Entertainment Inc.,"Action, Free To Play",Windows,0.00,,2718.0,72.00,2026-08-31
+1108,3198890,Scale the Depths,2026-05-28,Glass Gecko Games,"Phoenix Games, Pretty Soon","Casual, Indie, Simulation","Mac, Windows",399.00,20.00,1777.0,86.00,2026-08-31
+1109,4148240,Road to Empress Ⅱ,2026-06-08,New One Studio,New One Studio,"Adventure, Casual, Indie, RPG, Simulation",Windows,1090.00,,490.0,88.00,2026-08-31
+1110,392160,X4: Foundations,2018-11-30,Egosoft,Egosoft,"Action, Simulation, Strategy","Linux, Windows",2000.00,,13854.0,76.00,2026-08-31
+1111,365360,Battle Brothers,2017-03-24,Overhype Studios,"Hooded Horse, Overhype Studios","RPG, Simulation, Strategy",Windows,299.00,70.00,15444.0,84.00,2026-08-31
+1112,2172910,CAPTAIN TSUBASA 2: WORLD FIGHTERS,2026-08-27,TAMSOFT CORPORATION,Bandai Namco Entertainment Inc.,"Action, Sports",Windows,3499.00,,212.0,50.00,2026-08-31
+1113,1942280,Brotato,2023-06-23,Blobfish,Blobfish,"Action, Casual, Indie, RPG","Linux, Mac, Windows",250.00,26.00,32070.0,88.00,2026-08-31
+1114,3199170,Blood Strike,2025-03-13,NetEase Games,,"Action, Adventure, Free To Play, Massively Multiplayer, Strategy",Windows,0.00,,6757.0,76.00,2026-08-31
+1115,673750,Super Bunny Man,2023-05-16,Catobyte,,"Action, Indie","Linux, Mac, Windows",414.00,40.00,1418.0,72.00,2026-08-31
+1116,916440,Anno 1800,2019-04-16,Ubisoft Mainz,Ubisoft,"Simulation, Strategy",Windows,2999.00,,11974.0,86.00,2026-08-31
+1117,2239710,Into the Dead: Our Darkest Days,2025-04-09,PikPok,"Boltray Games (China), PikPok (worldwide)","Action, Early Access, Simulation, Strategy","Mac, Windows",880.00,20.00,3086.0,92.00,2026-08-31
+1118,108710,Alan Wake,2012-02-16,Remedy Entertainment,Remedy Entertainment,"Action, Adventure",Windows,69.00,90.00,16750.0,87.00,2026-08-31
+1119,1217060,Gunfire Reborn,2021-11-17,Gunfire Reborn Studio,,"Action, Adventure, Indie, RPG",Windows,869.00,,36703.0,84.00,2026-08-31
+1120,1607890,Risk of Rain 2: Survivors of the Void,2022-03-01,Hopoo Games,"2K, Gearbox Publishing","Action, Indie",Windows,174.00,50.00,4192.0,93.00,2026-08-31
+1121,4572310,Mistfall Hunter - Upgrade to Deluxe Edition,2026-07-29,Bellring Games,Skystone Games,"Action, Adventure",Windows,650.00,,97.0,53.00,2026-08-31
+1122,686810,Hell Let Loose,2021-07-27,Expression Games,Team17,"Action, Indie, Massively Multiplayer, Simulation, Strategy",Windows,2999.00,,62748.0,78.00,2026-08-31
+1123,4412690,Street Fighter™ 6 - Year 4 Ultimate Pass,2026-06-05,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.","Action, Adventure",Windows,2913.00,,49.0,71.00,2026-08-31
+1124,3483400,ARK: Astraeos,2025-02-13,Studio Wildcard,"Snail Games USA, Studio Wildcard","Action, Adventure, Indie, Massively Multiplayer, RPG",Windows,428.00,67.00,810.0,72.00,2026-08-31
+1125,1997040,MARVEL SNAP,2023-08-22,"Second Dinner Studios, Inc.",,"Casual, Free To Play, Strategy",Windows,0.00,,20148.0,67.00,2026-08-31
+1126,2062430,BALL x PIT,2025-10-15,Kenny Sun and Friends,Devolver Digital,"Action, Indie","Mac, Windows",690.00,7.00,15318.0,91.00,2026-08-31
+1127,2996040,Teenage Mutant Ninja Turtles: Splintered Fate,2024-11-06,Super Evil Megacorp,,"Action, Adventure, Indie, RPG, Strategy",Windows,337.00,75.00,2499.0,88.00,2026-08-31
+1128,1575990,Twisted Tower,2026-08-18,Atmos Games,3D Realms,"Action, Adventure, Indie",Windows,756.00,10.00,1546.0,93.00,2026-08-31
+1129,2004680,Voidling Bound,2026-06-09,Hatchery Games,,"Action, Adventure, RPG",Windows,1034.00,10.00,2100.0,90.00,2026-08-31
+1130,1044720,Farthest Frontier,2025-10-23,Crate Entertainment,Crate Entertainment,"Indie, Simulation, Strategy",Windows,1500.00,,11012.0,77.00,2026-08-31
+1131,1657630,Slime Rancher 2,2025-09-23,Monomi Park,Monomi Park,"Action, Adventure, Casual, Indie, Simulation",Windows,1151.00,26.00,23713.0,92.00,2026-08-31
+1132,3717070,WWE 2K26,2026-03-12,Visual Concepts,2K,"Simulation, Sports",Windows,3999.00,,1642.0,65.00,2026-08-31
+1133,2754380,The Roottrees are Dead,2025-01-15,Evil Trout Inc.,,Adventure,"Linux, Mac, Windows",880.00,8.00,5024.0,93.00,2026-08-31
+1134,2114740,Blasphemous 2,2023-08-24,The Game Kitchen,Team17,"Action, Adventure, Indie",Windows,749.00,75.00,5967.0,90.00,2026-08-31
+1135,212500,The Lord of the Rings Online™,2012-06-06,Standing Stone Games,,"Action, Adventure, Free To Play, Massively Multiplayer, RPG",Windows,0.00,,14546.0,80.00,2026-08-31
+1136,1594320,Captain of Industry,2022-05-31,MaFi Games,,"Early Access, Indie, Simulation, Strategy",Windows,1500.00,,5766.0,85.00,2026-08-31
+1137,3326230,Hozy,2026-03-30,Come On Studio,tinyBuild,"Casual, Indie, Simulation","Mac, Windows",599.00,,1811.0,74.00,2026-08-31
+1138,620,Portal 2,2011-04-18,Valve,Valve,"Action, Adventure","Linux, Windows",480.00,,173342.0,97.00,2026-08-31
+1139,2168680,Nuclear Option,2023-10-15,Shockfront Studios,,"Action, Early Access, Indie, Simulation",Windows,915.00,,8274.0,95.00,2026-08-31
+1140,3405340,Megabonk,2025-09-18,vedinad,,"Action, Casual, Indie","Linux, Windows",480.00,,57850.0,89.00,2026-08-31
+1141,434170,The Jackbox Party Pack 3,2016-10-17,"Jackbox Games, Inc.","Jackbox Games, Inc.","Casual, Indie, Strategy","Linux, Mac, Windows",495.00,55.00,4251.0,94.00,2026-08-31
+1142,504230,Celeste,2018-01-25,"Extremely OK Games, Ltd., Maddy Makes Games Inc.",,"Action, Adventure, Indie","Linux, Mac, Windows",224.00,75.00,61415.0,96.00,2026-08-31
+1143,2634950,Tokyo Xtreme Racer,2025-09-24,"Genki Co., Ltd.","Genki Co., Ltd.","Racing, RPG",Windows,1679.00,40.00,10283.0,75.00,2026-08-31
+1144,1169040,Necesse,2025-10-16,Fair Games ApS,Fair Games ApS,"Action, Adventure, Indie, RPG","Linux, Mac, Windows",690.00,20.00,12417.0,89.00,2026-08-31
+1145,2444750,Shape of Dreams,2025-09-10,Lizard Smoothie,NEOWIZ,"Action, Adventure, Indie, RPG",Windows,1100.00,27.00,6379.0,91.00,2026-08-31
+1146,3180070,"No, I'm not a Human",2025-09-15,Trioskaz,CRITICAL REFLEX,"Indie, Simulation",Windows,690.00,26.00,9780.0,95.00,2026-08-31
+1147,2964090,World of Warships: Legends,2026-05-04,Wargaming Group Limited,Wargaming Group Limited,"Action, Free To Play, Massively Multiplayer, Simulation, Strategy",Windows,0.00,,670.0,57.00,2026-08-31
+1148,412020,Metro Exodus,2019-02-14,4A Games,Deep Silver,Action,"Linux, Mac, Windows",2250.00,,34708.0,88.00,2026-08-31
+1149,552520,Far Cry® 5,2018-03-26,"Red Storm, Ubisoft Kiev, Ubisoft Montreal, Ubisoft Shanghai, Ubisoft Toronto",Ubisoft,"Action, Adventure",Windows,2999.00,,69942.0,82.00,2026-08-31
+1150,268500,XCOM® 2,2016-02-04,"Feral Interactive (Linux), Feral Interactive (Mac), Firaxis Games","2K, Feral Interactive (Linux)",Strategy,"Linux, Mac, Windows",1669.00,,45039.0,84.00,2026-08-31
+1151,4836540,Company of Heroes 3: Final Stand,2026-07-29,Relic Entertainment,,"Action, Strategy",Windows,1349.00,,968.0,49.00,2026-08-31
+1152,2253100,Everwind,2026-03-17,Enjoy Studio S.A.,Bohemia Interactive,"Adventure, Early Access, Indie, RPG, Simulation",Windows,825.00,25.00,1657.0,78.00,2026-08-31
+1153,1211630,The Jackbox Party Pack 7,2020-10-14,"Jackbox Games, Inc.","Jackbox Games, Inc.","Casual, Indie, Strategy","Linux, Mac, Windows",715.00,45.00,3754.0,95.00,2026-08-31
+1154,3091140,Lootbound,2026-08-14,ArtDock,Dreland Enterprises,"Adventure, Casual, Indie, RPG, Strategy","Linux, Mac, Windows",499.00,,1189.0,81.00,2026-08-31
+1155,629730,Blade and Sorcery,2024-06-17,WarpFrog,,"Action, Adventure, Indie, RPG, Simulation",Windows,1349.00,,49303.0,92.00,2026-08-31
+1156,868360,Project Hospital,2018-10-30,Oxymoron Games,,"Indie, Simulation, Strategy","Linux, Mac, Windows",300.00,70.00,3385.0,82.00,2026-08-31
+1157,1648532,Icarus: New Frontiers Expansion,2023-08-24,RocketWerkz,RocketWerkz,"Action, Adventure, Simulation",Windows,975.00,25.00,520.0,83.00,2026-08-31
+1158,1274570,DEVOUR,2021-01-28,Straight Back Games,,Indie,"Mac, Windows",480.00,,20687.0,83.00,2026-08-31
+1159,1501750,Lords of the Fallen,2023-10-13,CI Games,CI Games,"Action, Adventure, RPG",Windows,2399.00,,21151.0,72.00,2026-08-31
+1160,2271930,IfSunSets,2024-11-04,POLYMORPH,Smilegate,"Action, Adventure, Early Access, Indie, RPG",Windows,528.00,40.00,712.0,75.00,2026-08-31
+1161,1637320,Dome Keeper,2022-09-27,Bippinbits,Raw Fury,"Action, Adventure, Indie, Simulation","Linux, Mac, Windows",243.00,70.00,11631.0,94.00,2026-08-31
+1162,4355570,"Warhammer 40,000: Darktide - Skitarii Class",2026-06-23,Fatshark,Fatshark,"Action, Adventure, RPG",Windows,649.00,,1266.0,62.00,2026-08-31
+1163,1757300,Jump Space,2025-09-19,Keepsake Games,Keepsake Games,"Action, Adventure, Early Access, Indie",Windows,850.00,,7860.0,83.00,2026-08-31
+1164,1696770,The Mermaid Mask,2026-07-16,SFB Games,SFB Games,"Adventure, Casual, Indie","Mac, Windows",823.00,10.00,1886.0,99.00,2026-08-31
+1165,4229450,PowerWash Simulator 2 - STAR WARS Pack,2026-07-16,FuturLab,FuturLab,"Casual, Indie, Simulation",Windows,499.00,,148.0,43.00,2026-08-31
+1166,410340,Liftoff®: FPV Drone Racing,2018-09-13,LuGus Studios,,"Indie, Racing, Simulation, Sports","Linux, Mac, Windows",899.00,,6996.0,97.00,2026-08-31
+1167,3914860,Moss: The Forgotten Relic,2026-07-16,"Blackbird Interactive, Polyarc",Polyarc,"Action, Adventure, Indie",Windows,719.00,20.00,307.0,89.00,2026-08-31
+1168,2904000,The Spell Brigade,2026-04-29,Bolt Blaster Games,,"Action, Casual, Indie",Windows,610.00,,4935.0,83.00,2026-08-31
+1169,4553980,Jurassic World Evolution 3: Crocodilia Coast,2026-08-11,Frontier Developments,Frontier Developments,"Simulation, Strategy",Windows,1049.00,,79.0,77.00,2026-08-31
+1170,1996840,Guild Wars 2® Heart of Thorns® and Path of Fire™ Expansions,2022-08-23,ArenaNet®,"ArenaNet®, NCSOFT","Adventure, Free To Play, Massively Multiplayer, RPG",Windows,1376.00,40.00,328.0,78.00,2026-08-31
+1171,1124300,HUMANKIND™,2021-08-17,AMPLITUDE Studios,AMPLITUDE Studios,Strategy,"Mac, Windows",239.00,90.00,12329.0,79.00,2026-08-31
+1172,1446780,MONSTER HUNTER RISE,2022-01-12,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",Action,Windows,2497.00,,34446.0,90.00,2026-08-31
+1173,2677660,Indiana Jones and the Great Circle,2024-12-08,MachineGames,Bethesda Softworks,"Action, Adventure",Windows,4999.00,,7818.0,82.00,2026-08-31
+1174,3186540,Destiny 2: Renegades,2025-12-02,Bungie,Bungie,"Action, Adventure, Free To Play",Windows,1299.00,,1481.0,35.00,2026-08-31
+1175,3643170,Roadside Research,2026-02-12,Cybernetic Walrus,Oro Interactive,"Action, Casual, Early Access, Free To Play, Massively Multiplayer, RPG, Simulation",Windows,719.00,,2266.0,83.00,2026-08-31
+1176,3904850,Approximately Up,2026-08-06,Approximately Games,,"Adventure, Indie, Simulation",Windows,1099.00,,900.0,93.00,2026-08-31
+1177,1182900,A Plague Tale: Requiem,2022-10-17,Asobo Studio,Focus Entertainment,"Action, Adventure",Windows,2799.00,,7701.0,87.00,2026-08-31
+1178,1611600,WARNO,2024-05-23,Eugen Systems,Eugen Systems,"Action, Indie, Simulation, Strategy",Windows,2499.00,,8481.0,73.00,2026-08-31
+1179,3375780,Trails in the Sky 1st Chapter,2025-09-19,Nihon Falcom,"GungHo Online Entertainment America, Inc.","Action, Adventure, RPG",Windows,2400.00,,2743.0,95.00,2026-08-31
+1180,655500,MX Bikes,2019-10-07,PiBoSo,PiBoSo,"Early Access, Racing, Simulation, Sports",Windows,1500.00,,25937.0,91.00,2026-08-31
+1181,824270,KovaaK's,2018-04-03,KovaaK Games,KovaaK Games,"Action, Indie, Simulation",Windows,349.00,,22810.0,91.00,2026-08-31
+1182,2195120,Go-Go Town!,2026-07-16,Prideful Sloth,Prideful Sloth,"Casual, Indie, Simulation, Strategy",Windows,1000.00,11.00,1215.0,93.00,2026-08-31
+1183,1272320,Diplomacy is Not an Option,2024-10-04,Door 407,Door 407,"Action, Adventure, Casual, Indie, Simulation, Strategy",Windows,520.00,60.00,4856.0,82.00,2026-08-31
+1184,1527950,Wartales,2023-04-12,Shiro Games,Shiro Games,"Adventure, Indie, RPG, Strategy",Windows,1968.00,,13546.0,65.00,2026-08-31
+1185,3556750,"Warhammer 40,000: Dawn of War - Definitive Edition",2025-08-14,Relic Entertainment,,Strategy,Windows,1349.00,,6717.0,88.00,2026-08-31
+1186,4502710,Stonewards,2026-08-11,Banana Tiger Studio,,"Action, Adventure, Early Access, Indie",Windows,499.00,,653.0,94.00,2026-08-31
+1187,2445690,Lost Castle 2,2026-06-10,Hunter Studio,,"Action, Adventure, Indie, RPG",Windows,810.00,19.00,1120.0,73.00,2026-08-31
+1188,47890,The Sims™ 3,2009-06-02,"Maxis, The Sims Studio",Electronic Arts,Simulation,Windows,1199.00,,20512.0,76.00,2026-08-31
+1189,2747330,Species: Unknown,2025-10-23,WanadevStudio,WanadevStudio,"Action, Early Access, Indie",Windows,480.00,,6068.0,94.00,2026-08-31
+1190,4678800,Train Sim World® 7,2026-09-15,Dovetail Games,Dovetail Games - TSW,Simulation,Windows,1889.00,10.00,,,2026-08-31
+1191,1805320,Romestead,2026-05-25,Beartwigs,,"Action, Adventure, Early Access, Indie, RPG",Windows,599.00,48.00,1240.0,80.00,2026-08-31
+1192,620980,Beat Saber,2019-05-21,Beat Games,,Indie,Windows,1799.00,,53001.0,85.00,2026-08-31
+1193,2842040,Star Wars Outlaws,2024-11-21,Massive Entertainment – A Ubisoft Studio,Ubisoft,"Action, Adventure",Windows,4899.00,,7686.0,71.00,2026-08-31
+1194,4323380,This Game Costs 200 Dollars,2026-01-30,Stolen Valor Studios,,"Casual, Indie, Simulation",Windows,7900.00,,2.0,,2026-08-31
+1195,1845250,Rubinite,2026-07-22,"Cup Dog Games, GameWorks Ventures",Cup Dog Games,"Action, Indie, RPG","Mac, Windows",919.00,,1224.0,96.00,2026-08-31
+1196,2248760,Car For Sale Simulator,2024-11-01,Red Axe Games,Red Axe Games,"Indie, Simulation",Windows,80.00,60.00,4755.0,79.00,2026-08-31
+1197,4376930,Disney Dreamlight Valley: Honeyglow Woods,2026-07-08,Gameloft,,"Action, Adventure, Casual, RPG, Simulation",Windows,1415.00,,71.0,69.00,2026-08-31
+1198,632470,Disco Elysium - The Final Cut,2019-10-15,ZA/UM,ZA/UM,RPG,"Mac, Windows",1573.00,44.00,57635.0,89.00,2026-08-31
+1199,1809540,Nine Sols,2024-05-28,RedCandleGames,RedCandleGames,"Action, Adventure, Indie","Mac, Windows",1300.00,,20073.0,93.00,2026-08-31
+1200,1013320,Firestone – Idle Clicker Online RPG,2024-04-01,Holyday Studios,,"Casual, Free To Play, Indie, RPG","Linux, Mac, Windows",0.00,,2500.0,75.00,2026-08-31
+1201,1222680,Need for Speed™ Heat,2020-06-04,Ghost Games,Electronic Arts,"Action, Adventure, Racing, Sports",Windows,3499.00,,52346.0,86.00,2026-08-31
+1202,3117820,Sultan's Game,2025-03-30,Double Cross,2P Games,"Adventure, Indie, RPG, Simulation, Strategy","Linux, Mac, Windows",880.00,20.00,1327.0,93.00,2026-08-31
+1203,3784030,RACCOIN: Coin Pusher Roguelike,2026-03-31,Doraccoon,Playstack,"Casual, Indie, Simulation, Strategy",Windows,640.00,11.00,2639.0,75.00,2026-08-31
+1204,4412680,Street Fighter™ 6 - Year 4 Character Pass,2026-06-05,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.","Action, Adventure",Windows,1997.00,,64.0,34.00,2026-08-31
+1205,3314790,CloverPit,2025-09-26,Panik Arcade,Future Friends Games,"Action, Adventure, Indie, Simulation, Sports, Strategy",Windows,480.00,10.00,12565.0,87.00,2026-08-31
+1206,3219010,Fogpiercer,2026-07-17,Mad Cookies Studio,Hooded Horse,"RPG, Strategy","Linux, Mac, Windows",449.00,25.00,561.0,84.00,2026-08-31
+1207,4224910,Ready or Not: Boiling Point,2026-03-12,VOID Interactive,,"Action, Adventure, Indie",Windows,499.00,,1729.0,67.00,2026-08-31
+1208,230290,Universe Sandbox,2015-08-24,Giant Army,Giant Army,"Casual, Early Access, Indie, Simulation","Mac, Windows",903.00,33.00,19529.0,95.00,2026-08-31
+1209,2273430,BlazBlue Entropy Effect,2024-02-14,91Act,Astrolabe Games,"Action, Adventure, Indie","Mac, Windows",880.00,,4664.0,94.00,2026-08-31
+1210,4148930,F1® 25: 2026 Season Pack,2026-06-03,Codemasters,Electronic Arts,"Racing, Simulation, Sports",Windows,1399.00,,581.0,33.00,2026-08-31
+1211,2384580,DYNASTY WARRIORS: ORIGINS,2025-01-16,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.","Action, RPG, Strategy",Windows,4900.00,,4245.0,87.00,2026-08-31
+1212,4735170,"5,000 Premier Pack - Rainbow Six Siege",2026-06-04,Ubisoft Montreal,,"Action, Free To Play",Windows,3330.00,,51.0,58.00,2026-08-31
+1213,4538960,ZENONIA 1,2026-08-31,"CFK Co., Ltd., Com2us Holdings",Com2us Holdings,"Action, Adventure, Indie",Windows,449.00,10.00,59.0,93.00,2026-08-31
+1214,588030,Derail Valley,2019-01-25,Altfuture,Altfuture,"Adventure, Early Access, Indie, Simulation",Windows,1649.00,,6347.0,98.00,2026-08-31
+1215,1335200,Action Taimanin,2020-10-05,LiLith,,"Action, Adventure, Free To Play, RPG",Windows,0.00,,3545.0,65.00,2026-08-31
+1216,2349820,Hero's Land,2023-05-17,钢之直男工作室,,"Action, Adventure, Free To Play, Massively Multiplayer, RPG",Windows,0.00,,1473.0,38.00,2026-08-31
+1217,694280,Zombie Army 4: Dead War,2021-02-18,Rebellion,Rebellion,Action,Windows,1984.00,,3099.0,83.00,2026-08-31
+1218,573090,Stormworks: Build and Rescue,2020-09-17,Geometa,Geometa,Simulation,"Mac, Windows",1100.00,,41588.0,91.00,2026-08-31
+1219,4376980,Age of Empires II: DE - The Viking Sagas,2026-09-22,"CaptureAge, Feral Interactive, Forgotten Empires, Tantalus Media, Wicked Witch, World's Edge",,Strategy,Windows,934.00,15.00,,,2026-08-31
+1220,567990,Sally Face - Season Pass,2016-12-14,Portable Moose,Portable Moose,"Adventure, Indie","Linux, Mac, Windows",570.00,,1207.0,98.00,2026-08-31
+1221,1693980,Dead Space,2023-01-27,Motive,,"Action, Adventure",Windows,2999.00,,32028.0,89.00,2026-08-31
+1222,3672400,Farever,2026-05-06,Shiro Games,Shiro Games,"Action, Adventure, Early Access, RPG",Windows,999.00,,5050.0,79.00,2026-08-31
+1223,2104890,RoadCraft,2025-05-20,Saber Interactive,Focus Entertainment,"Adventure, Simulation",Windows,1999.00,25.00,6783.0,69.00,2026-08-31
+1224,247970,Korea. IL-2 Series,2026-08-04,FOR-GAMES CR LTD,FOR-GAMES CR LTD,"Action, Simulation",Windows,4691.00,,402.0,73.00,2026-08-31
+1225,1433140,The Texas Chain Saw Massacre,2023-08-18,Sumo Digital,Gun Interactive,"Action, Indie",Windows,172.00,75.00,10939.0,68.00,2026-08-31
+1226,4013290,"Warhammer 40,000: Darktide - Hive Scum Class",2025-12-02,Fatshark,Fatshark,"Action, Adventure, RPG",Windows,486.00,25.00,1554.0,76.00,2026-08-31
+1227,3315290,Icarus: Great Hunts Campaigns,2025-07-17,RocketWerkz,RocketWerkz,"Action, Adventure, Simulation",Windows,825.00,25.00,155.0,57.00,2026-08-31
+1228,367270,Angels Fall First,2026-07-11,Strangely Interactive Ltd,,"Action, Indie, Simulation",Windows,499.00,,3345.0,68.00,2026-08-31
+1229,646570,Slay the Spire,2019-01-23,Mega Crit,Mega Crit,"Indie, Strategy","Linux, Mac, Windows",1100.00,,76765.0,94.00,2026-08-31
+1230,1659420,UNCHARTED™: Legacy of Thieves Collection,2022-10-19,"Iron Galaxy Studios, Naughty Dog LLC",PlayStation Publishing LLC,Adventure,Windows,3299.00,,10687.0,90.00,2026-08-31
+1231,1248130,Farming Simulator 22,2021-11-21,GIANTS Software,GIANTS Software,Simulation,"Mac, Windows",1369.00,,25657.0,96.00,2026-08-31
+1232,2072560,DRAGON BALL GEKISHIN SQUADRA,2025-09-09,"GANBARION Co., Ltd.",Bandai Namco Entertainment,"Action, Free To Play",Windows,0.00,,5785.0,44.00,2026-08-31
+1233,2769570,Fable,2027-02-23,Playground Games,Xbox Game Studios,"Action, Adventure, RPG",Windows,5499.00,,,,2026-08-31
+1234,1343400,RuneScape ®,2020-10-14,Jagex Ltd,Jagex Ltd,"Free To Play, Massively Multiplayer, RPG","Mac, Windows",0.00,,21807.0,73.00,2026-08-31
+1235,1676840,For The King II,2023-11-02,IronOak Games,Curve Games,"Adventure, Indie, RPG, Strategy",Windows,1229.00,,5387.0,69.00,2026-08-31
+1236,2963800,DrainSim,2026-03-03,CodePeas,,"Casual, Early Access, Indie, Simulation",Windows,1299.00,7.00,1686.0,89.00,2026-08-31
+1237,516750,My Summer Car,2025-01-08,Amistech Games,Amistech Games,"Indie, Racing, Simulation",Windows,305.00,,37065.0,94.00,2026-08-31
+1238,4357570,NBA 2K27 Hall of Fame Pass: Season 1,2026-08-26,Visual Concepts,2K,Sports,Windows,1599.00,,1.0,,2026-08-31
+1239,4384550,Call of Duty®: Black Ops 6,2024-11-01,"Activision Shanghai, Beenox, Demonware, High Moon Studios, Infinity Ward, Raven Software, Sledgehammer Games, Treyarch",Activision,Action,Windows,5599.00,,8999.0,68.00,2026-08-31
+1240,1721110,Abyssus,2025-08-12,DoubleMoose Games,"Dotemu, The Arcade Crew","Action, Adventure, Indie",Windows,1100.00,8.00,3548.0,83.00,2026-08-31
+1241,2198150,Tiny Glade,2024-09-23,Pounce Light,,"Casual, Indie, Simulation","Linux, Mac, Windows",690.00,,13689.0,96.00,2026-08-31
+1242,2186990,Fatekeeper,2026-06-02,Paraglacial,THQ Nordic,"Action, Early Access, RPG",Windows,760.00,,6736.0,86.00,2026-08-31
+1243,1971650,OCTOPATH TRAVELER II,2023-02-24,"ACQUIRE Corp., Square Enix",Square Enix,RPG,Windows,3499.00,,4743.0,79.00,2026-08-31
+1244,3531720,ELDEN RING NIGHTREIGN The Forsaken Hollows,2025-12-03,"FromSoftware, Inc.","Bandai Namco Entertainment, FromSoftware, Inc.","Action, RPG",Windows,700.00,,3743.0,38.00,2026-08-31
+1245,2277560,WUCHANG: Fallen Feathers,2025-07-23,Leenzee,505 Games,"Action, Adventure, RPG",Windows,3150.00,,5439.0,83.00,2026-08-31
+1246,4243990,Path of Idle: Old Gods Rising,2026-08-12,Small Mill,,"Adventure, Casual, Indie, RPG, Strategy","Mac, Windows",499.00,,1040.0,76.00,2026-08-31
+1247,3315060,Ledgerbound,2026-08-13,OmniMegaSuperCorp,,"RPG, Strategy","Mac, Windows",1349.00,,467.0,92.00,2026-08-31
+1248,546560,Half-Life: Alyx,2020-03-23,Valve,Valve,"Action, Adventure",Windows,2400.00,,61507.0,95.00,2026-08-31
+1249,4961870,Planet Coaster 2: Silver Screen Pack,2026-08-19,Frontier Developments,Frontier Developments,"Simulation, Strategy",Windows,719.00,,28.0,82.00,2026-08-31
+1250,2380740,RimWorld - Anomaly,2024-04-11,Ludeon Studios,Ludeon Studios,"Indie, Simulation, Strategy","Linux, Mac, Windows",1100.00,,1869.0,61.00,2026-08-31
+1251,3172660,Marvel's Spider-Man 2 - Digital Deluxe Upgrade,2025-01-30,"Insomniac Games, Nixxes Software",PlayStation Publishing LLC,"Action, Adventure",Windows,4799.00,,101.0,77.00,2026-08-31
+1252,1592190,BONELAB,2022-09-29,Stress Level Zero,,"Action, Adventure, Simulation",Windows,1600.00,,15034.0,93.00,2026-08-31
+1253,4195110,Ultrapool,2026-08-24,Icedrop Games,offbrand games,"Casual, Indie, Sports, Strategy","Linux, Mac, Windows",476.00,20.00,146.0,88.00,2026-08-31
+1254,204360,Castle Crashers®,2012-09-26,The Behemoth,The Behemoth,"Action, Adventure, Casual, Indie, RPG","Mac, Windows",380.00,,46171.0,95.00,2026-08-31
+1255,1601570,The Alters,2025-06-13,11 bit studios,11 bit studios,Adventure,Windows,1500.00,8.00,5999.0,88.00,2026-08-31
+1256,1222700,A Way Out,2018-03-23,Hazelight Studios,Electronic Arts,"Action, Adventure, Indie",Windows,1499.00,,26066.0,87.00,2026-08-31
+1257,4131670,Jurassic World Evolution 3: Rebirth Expansion,2026-06-16,Frontier Developments,Frontier Developments,"Simulation, Strategy",Windows,1799.00,,250.0,60.00,2026-08-31
+1258,779340,Total War: THREE KINGDOMS,2019-05-23,"CREATIVE ASSEMBLY, Feral Interactive (Linux), Feral Interactive (Mac)",SEGA,"Action, Strategy","Linux, Mac, Windows",2449.00,,17388.0,83.00,2026-08-31
+1259,463530,Empires of the Undergrowth,2024-06-07,Slug Disco,"Hooded Horse, Slug Disco","Simulation, Strategy","Mac, Windows",299.00,70.00,10767.0,94.00,2026-08-31
+1260,2763740,Revolution Idle,2025-05-01,"Nu Games, Oni Gaming",,"Casual, Free To Play, Indie, Simulation",Windows,0.00,,7267.0,85.00,2026-08-31
+1261,3400930,Guilty as Sock!,2025-05-29,Demon Max,,"Casual, Simulation","Mac, Windows",240.00,20.00,2641.0,82.00,2026-08-31
+1262,3710910,"Warhammer 40,000: Darktide - Arbites Class",2025-06-23,Fatshark,Fatshark,"Action, Adventure, Indie",Windows,421.00,35.00,1386.0,73.00,2026-08-31
+1263,4466620,SiNiSistar 2,2026-05-15,Uu,Eroge Japan,"Action, Adventure, Indie, RPG","Mac, Windows",719.00,,309.0,91.00,2026-08-31
+1264,4781330,Vampire Survivors: Legacy of the Bloodmoon,2026-08-28,poncle,poncle,"Action, Casual, Indie, RPG","Mac, Windows",54.00,22.00,224.0,98.00,2026-08-31
+1265,2784470,9 Kings,2025-05-23,Sad Socket,"Hooded Horse, Sidekick Publishing","Early Access, RPG, Strategy","Mac, Windows",299.00,50.00,9941.0,88.00,2026-08-31
+1266,386940,Ultimate Chicken Horse,2016-03-04,Clever Endeavour Games,Clever Endeavour Games,"Action, Casual, Indie","Linux, Mac, Windows",690.00,34.00,14699.0,93.00,2026-08-31
+1267,1971870,Mortal Kombat 1,2023-09-19,"NetherRealm Studios, QLOC",Warner Bros. Games,Action,Windows,2799.00,,17359.0,77.00,2026-08-31
+1268,1909950,SUPER ROBOT WARS Y,2025-08-27,Bandai Namco Forge Digitals Inc.,Bandai Namco Entertainment Inc.,"RPG, Simulation, Strategy",Windows,3499.00,,418.0,76.00,2026-08-31
+1269,1435790,Escape Simulator,2021-10-19,Pine Studio,Pine Studio,"Adventure, Casual, Indie, Simulation","Linux, Mac, Windows",899.00,,8968.0,85.00,2026-08-31
+1270,4128580,BidKing,2026-04-15,MindSurge Network & Games,,"Casual, Indie, Massively Multiplayer, Simulation, Sports, Strategy",Windows,269.00,,22145.0,13.00,2026-08-31
+1271,2272360,"Warhammer 40,000: Dawn of War IV",2026-12-03,KING Art,Deep Silver,"Action, Strategy",Windows,3779.00,10.00,,,2026-08-31
+1272,2799860,INAZUMA ELEVEN: Victory Road,2025-11-13,LEVEL5 Inc.,LEVEL5 Inc.,"RPG, Sports",Windows,5827.00,,2017.0,81.00,2026-08-31
+1273,1875580,Mina the Hollower,2026-05-28,Yacht Club Games,Yacht Club Games,"Action, Adventure","Linux, Mac, Windows",750.00,11.00,5517.0,87.00,2026-08-31
+1274,582160,Assassin's Creed® Origins,2017-10-26,Ubisoft Montreal,Ubisoft,"Action, Adventure, RPG",Windows,2999.00,,36885.0,84.00,2026-08-31
+1275,24010,Train Simulator Classic,2009-07-12,Dovetail Games,"Dovetail Games, Dovetail Games - Trains",Simulation,Windows,1300.00,,10722.0,89.00,2026-08-31
+1276,2492040,FATAL FURY: City of the Wolves,2026-01-22,SNK CORPORATION,SNK CORPORATION,Action,Windows,832.00,50.00,1589.0,69.00,2026-08-31
+1277,1574480,Agent 64: Spies Never Die,2026-08-11,Replicant D6,,"Action, Adventure, Indie",Windows,1011.00,,811.0,86.00,2026-08-31
+1278,3314340,Burgie's Cozy Kitchen,2025-02-10,HeyNau,,"Casual, Early Access, Simulation",Windows,244.00,30.00,1386.0,94.00,2026-08-31
+1279,3314070,The Sims™ 2 Legacy Collection,2025-01-31,Maxis,Electronic Arts,Simulation,Windows,1799.00,,2924.0,83.00,2026-08-31
+1280,298110,Far Cry® 4,2014-11-18,"Ubisoft Montreal, Red Storm, Shanghai, Toronto, Kiev",Ubisoft,"Action, Adventure",Windows,1499.00,,25057.0,84.00,2026-08-31
+1281,2863680,ZERO PARADES: For Dead Spies,2026-05-21,ZA/UM,ZA/UM,"Indie, RPG",Windows,1599.00,,1638.0,82.00,2026-08-31
+1282,2852190,Monster Hunter Stories 3: Twisted Reflection,2026-03-12,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.","Adventure, RPG",Windows,4399.00,,2410.0,73.00,2026-08-31
+1283,3614130,Shelves and Sorcery: Tidy Up the Enchanted Shop,2026-08-11,Teddy Bear Games LLC,,"Casual, Indie, Simulation",Windows,309.00,13.00,493.0,92.00,2026-08-31
+1284,3115220,Town to City,2026-05-26,Galaxy Grove,Kwalee,"Indie, Simulation, Strategy",Windows,799.00,12.00,4149.0,91.00,2026-08-31
+1285,1796470,Haste,2025-04-01,Landfall,Evil Landfall?,"Action, Adventure, Indie, Racing","Linux, Mac, Windows",539.00,40.00,8874.0,92.00,2026-08-31
+1286,1154030,Titan Quest II,2025-08-01,Grimlore Games,THQ Nordic,"Action, Early Access, RPG",Windows,1500.00,,7493.0,65.00,2026-08-31
+1287,2956680,LORT,2026-01-21,Big Distraction,,"Action, Early Access",Windows,690.00,31.00,2769.0,76.00,2026-08-31
+1288,1256670,Library Of Ruina,2021-08-10,ProjectMoon,,"Indie, RPG, Strategy",Windows,699.00,,14560.0,95.00,2026-08-31
+1289,1442430,Storage Hunter Simulator,2025-11-27,Raccoons Studio,astragon Entertainment,"Casual, Indie, Simulation",Windows,660.00,40.00,1814.0,86.00,2026-08-31
+1290,4558510,ARK Fantastic Tames Season 1,2026-05-20,Studio Wildcard,"Snail Games USA, Studio Wildcard","Action, Adventure, Indie, Massively Multiplayer, RPG",Windows,899.00,67.00,89.0,60.00,2026-08-31
+1291,1702010,Sengoku Dynasty,2024-11-07,Superkami,Toplitz Productions,"Adventure, RPG, Simulation",Windows,621.00,50.00,2733.0,76.00,2026-08-31
+1292,1258080,Shop Titans,2020-05-05,"Kabam Games, Inc.","Kabam Games, Inc.","Adventure, Casual, Free To Play, RPG, Simulation",Windows,0.00,,6306.0,60.00,2026-08-31
+1293,589290,Holdfast: Nations At War,2020-03-05,Anvil Game Studios,Anvil Game Studios,"Action, Indie, Massively Multiplayer, RPG, Simulation, Strategy",Windows,899.00,,18822.0,90.00,2026-08-31
+1294,2523720,Gears of War: Reloaded,2025-08-26,The Coalition,Xbox Game Studios,Action,Windows,2499.00,,2718.0,66.00,2026-08-31
+1295,2004210,Euro Truck Simulator 2 - West Balkans,2023-10-19,SCS Software,SCS Software,"Indie, Simulation","Linux, Mac, Windows",850.00,,1766.0,85.00,2026-08-31
+1296,1645820,SurrounDead,2022-06-24,Zurvivor,,"Action, Adventure, Early Access, Indie, RPG",Windows,570.00,14.00,16181.0,79.00,2026-08-31
+1297,568220,Lobotomy Corporation | Monster Management Simulation,2018-04-09,ProjectMoon,,"Indie, Simulation",Windows,569.00,,14410.0,94.00,2026-08-31
+1298,2019620,GERONIMO,2026-07-10,Dark Matter Studios,,"Action, Early Access",Windows,1799.00,,1203.0,70.00,2026-08-31
+1299,1458140,Pacific Drive,2024-02-21,Ironwood Studios,Kepler Interactive,"Action, Adventure, Indie, Racing, Simulation",Windows,839.00,60.00,14175.0,79.00,2026-08-31
+1300,3451980,Soul's Remnant,2026-08-13,Chaomoon,,"Adventure, Casual, Early Access, Free To Play, Indie, Massively Multiplayer, RPG","Linux, Mac, Windows",0.00,,1336.0,69.00,2026-08-31
+1301,3483740,Cast n Chill,2025-06-16,Wombat Brawler,Wombat Brawler,"Casual, Indie, RPG, Simulation, Sports","Mac, Windows",690.00,,5112.0,92.00,2026-08-31
+1302,2542020,Duskfade,2026-08-13,Weird Beluga,Fireshine Games,"Action, Adventure",Windows,1599.00,,656.0,90.00,2026-08-31
+1303,1989270,Slay the Princess — The Pristine Cut,2023-10-23,Black Tabby Games,"Black Tabby Games, Serenity Forge","Adventure, Indie, RPG, Simulation","Linux, Mac, Windows",809.00,21.00,23529.0,96.00,2026-08-31
+1304,1663850,REPLACED,2026-04-14,Sad Cat Studios,Thunderful Publishing,"Action, Adventure, Indie",Windows,854.00,23.00,3343.0,90.00,2026-08-31
+1305,1392840,RimWorld - Ideology,2021-07-20,Ludeon Studios,Ludeon Studios,"Indie, Simulation, Strategy","Linux, Mac, Windows",880.00,,2242.0,90.00,2026-08-31
+1306,2290180,Riders Republic,2023-06-08,"Ubisoft Annecy, Ubisoft Belgrade, Ubisoft Kyiv, Ubisoft Odesa, Ubisoft Pune",Ubisoft Entertainment,"Massively Multiplayer, Sports",Windows,1999.00,,7619.0,85.00,2026-08-31
+1307,2426530,Nova Roma,2026-03-26,Lion Shield,Hooded Horse,"Early Access, Simulation, Strategy","Mac, Windows",749.00,25.00,1440.0,89.00,2026-08-31
+1308,1498570,THE KING OF FIGHTERS XV,2024-12-12,SNK CORPORATION,SNK CORPORATION,Action,Windows,1249.00,75.00,2752.0,72.00,2026-08-31
+1309,4512570,A Game About Chopping Trees,2026-07-15,Space Raccoon Game Studio,,"Casual, Simulation","Linux, Windows",415.00,,964.0,83.00,2026-08-31
+1310,1419170,My Singing Monsters,2021-03-24,Big Blue Bubble,Big Blue Bubble,"Casual, Free To Play, Simulation",Windows,0.00,,31936.0,93.00,2026-08-31
+1311,1029780,Going Medieval,2026-03-17,Foxy Voxel,Mythwright,"Indie, RPG, Simulation, Strategy",Windows,975.00,25.00,8636.0,81.00,2026-08-31
+1312,607080,Psychonauts 2,2021-08-24,Double Fine Productions,Double Fine Productions,"Action, Adventure","Linux, Mac, Windows",195.00,85.00,8411.0,90.00,2026-08-31
+1313,921570,OCTOPATH TRAVELER™,2019-06-07,"ACQUIRE Corp., Square Enix",Square Enix,RPG,Windows,4250.00,,5127.0,76.00,2026-08-31
+1314,4796830,WE ARE SO DEAD,2026-08-17,REAL PLAYERS,REAL PLAYERS,"Adventure, Casual, Early Access, Indie, RPG, Simulation, Strategy",Windows,257.00,38.00,600.0,75.00,2026-08-31
+1315,3282420,Zoominoes,2026-07-30,Starlight Games inc.,,"Indie, Strategy",Windows,719.00,8.00,499.0,92.00,2026-08-31
+1316,1184370,Pathfinder: Wrath of the Righteous - Enhanced Edition,2021-09-02,Owlcat Games,META Publishing,"Action, Adventure, Indie, RPG, Strategy","Mac, Windows",979.00,,18499.0,77.00,2026-08-31
+1317,1622100,Outer Wilds - Echoes of the Eye,2021-09-28,Mobius Digital,Annapurna Interactive,"Action, Adventure",Windows,395.00,40.00,3971.0,83.00,2026-08-31
+1318,756800,Contraband Police,2023-03-08,Crazy Rocks,PlayWay S.A.,"Action, Adventure, Simulation",Windows,1299.00,3.00,10612.0,92.00,2026-08-31
+1319,3615160,Teddy's Haven,2025-05-06,Teddy Bear Games LLC,,"Adventure, Casual, Early Access, Indie, RPG, Simulation",Windows,552.00,20.00,2531.0,90.00,2026-08-31
+1320,431730,Aseprite,2016-02-22,Igara Studio,Igara Studio,"Animation & Modeling, Design & Illustration, Game Development","Linux, Mac, Windows",915.00,,12109.0,97.00,2026-08-31
+1321,1176470,Terra Invicta,2026-01-05,Pavonis Interactive,Hooded Horse,"Simulation, Strategy",Windows,1499.00,23.00,6551.0,66.00,2026-08-31
+1322,1682970,Uncrashed : FPV Drone Simulator,2021-09-01,Luminite,,"Action, Indie, Racing, Simulation, Sports","Mac, Windows",690.00,,2249.0,95.00,2026-08-31
+1323,1158160,Coral Island,2023-11-14,Stairway Games,Balor Games,"Adventure, Casual, Indie, RPG, Simulation, Strategy",Windows,1900.00,,14125.0,91.00,2026-08-31
+1324,1963610,Road to Vostok,2026-04-07,Road to Vostok Ltd.,,"Action, Early Access",Windows,880.00,,5902.0,78.00,2026-08-31
+1325,2697000,The Legend of Khiimori,2026-03-03,"Aesir Interactive, NightinGames",Mindscape,"Adventure, Casual, Early Access, Simulation",Windows,2484.00,,1864.0,63.00,2026-08-31
+1326,2119830,MISERY,2025-10-23,Platypus Entertainment,Ytopia,"Action, Adventure, Indie, Massively Multiplayer, Simulation","Linux, Windows",580.00,11.00,7859.0,82.00,2026-08-31
+1327,1088850,Marvel's Guardians of the Galaxy,2021-10-26,Eidos-Montréal,Eidos Interactive Corp.,"Action, Adventure",Windows,449.00,85.00,18835.0,90.00,2026-08-31
+1328,386180,Crossout,2017-07-26,Targem Games,Gaijin Network Ltd,"Action, Adventure, Free To Play, Massively Multiplayer, Racing",Windows,0.00,,22525.0,76.00,2026-08-31
+1329,2671070,Crusader Kings III: Roads to Power,2024-09-24,Paradox Development Studio,Paradox Interactive,"RPG, Simulation, Strategy","Linux, Mac, Windows",1859.00,,1242.0,83.00,2026-08-31
+1330,314650,SpaceEngine,2019-06-11,Cosmographic Software,,"Casual, Early Access, Indie, Simulation",Windows,1300.00,,9513.0,96.00,2026-08-31
+1331,1149640,RimWorld - Royalty,2020-02-24,Ludeon Studios,,"Indie, Simulation, Strategy","Linux, Mac, Windows",880.00,,1566.0,85.00,2026-08-31
+1332,2604420,Euro Truck Simulator 2 - Greece,2024-12-04,SCS Software,SCS Software,"Indie, Simulation","Linux, Mac, Windows",580.00,,1299.0,92.00,2026-08-31
+1333,961200,Predecessor,2024-08-20,Omeda Studios,,"Action, Free To Play, Indie, Massively Multiplayer, RPG, Strategy",Windows,0.00,,12510.0,64.00,2026-08-31
+1334,4364910,Ruins of Dawn,2026-08-14,刷宝爱好者,,"Adventure, Indie, RPG",Windows,399.00,,792.0,72.00,2026-08-31
+1335,1922560,Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,2022-05-16,PopCap,Electronic Arts,"Action, Casual, Strategy",Windows,1799.00,,21767.0,88.00,2026-08-31
+1336,4833450,Money for Girls: Amortized,2026-08-24,Porpentine,,"Indie, RPG","Linux, Mac, Windows",617.00,10.00,415.0,98.00,2026-08-31
+1337,4492700,Mafia: The Old Country - Man of Honor,2026-08-14,Hangar 13,2K,"Action, Adventure",Windows,579.00,,500.0,60.00,2026-08-31
+1338,3501070,Car Service Together,2026-02-04,V12 Studio,"Gamersky Games, V12 Studio","Early Access, Indie, Racing, Simulation",Windows,880.00,,1499.0,77.00,2026-08-31
+1339,977950,A Dance of Fire and Ice,2019-01-24,7th Beat Games,"7th Beat Games, indienova",Indie,"Linux, Mac, Windows",175.00,20.00,15508.0,94.00,2026-08-31
+1340,1629520,A Little to the Left,2022-11-08,Max Inferno,Secret Mode,"Casual, Indie","Mac, Windows",579.00,,10075.0,86.00,2026-08-31
+1341,2943650,FragPunk,2025-03-06,Bad Guitar Studio,,"Action, Free To Play",Windows,0.00,,24095.0,75.00,2026-08-31
+1342,1343370,Old School RuneScape,2013-02-22,Jagex Ltd,Jagex Ltd,"Adventure, Free To Play, Massively Multiplayer, RPG","Mac, Windows",0.00,,18078.0,86.00,2026-08-31
+1343,1203190,Wreckfest 2,2025-03-20,Bugbear,THQ Nordic,"Early Access, Racing",Windows,1500.00,,3547.0,69.00,2026-08-31
+1344,1948280,Stacklands,2022-04-08,Sokpop Collective,Sokpop Collective,"Casual, Indie, Simulation","Mac, Windows",199.00,50.00,11892.0,92.00,2026-08-31
+1345,1846380,Need for Speed™ Unbound,2022-12-01,Criterion Games,Electronic Arts,"Action, Racing",Windows,3499.00,,20947.0,57.00,2026-08-31
+1346,2201320,Date Everything!,2025-06-17,Sassy Chap Games,Team17,Simulation,Windows,2399.00,,6000.0,81.00,2026-08-31
+1347,2966320,Starsand Island,2026-08-18,Seed Sparkle Lab,,"Casual, Indie, RPG, Simulation",Windows,1280.00,20.00,2726.0,38.00,2026-08-31
+1348,3590290,DIVE or DIE - Children of Rain,2026-07-21,Drop Rate Studio,Dear Villagers,"Action, Adventure, Indie",Windows,820.00,28.00,1185.0,90.00,2026-08-31
+1349,3478050,Road to Empress I,2025-09-08,New One Studio,New One Studio,"Adventure, Casual, Indie, RPG, Simulation",Windows,586.00,,1716.0,86.00,2026-08-31
+1350,2543830,Way of the Hunter 2,2026-03-26,Nine Rocks Games,THQ Nordic,"Adventure, Early Access, Simulation",Windows,2320.00,,1455.0,67.00,2026-08-31
+1351,3609080,StarSavior,2025-12-10,Studiobside,Studiobside,"Free To Play, RPG, Simulation, Strategy",Windows,0.00,,1257.0,66.00,2026-08-31
+1352,1150690,OMORI,2020-12-25,"OMOCAT, LLC",,"Adventure, Indie, RPG","Mac, Windows",529.00,,54240.0,95.00,2026-08-31
+1353,282140,SOMA,2015-09-21,Frictional Games,Frictional Games,"Action, Adventure, Indie","Linux, Mac, Windows",260.00,80.00,24382.0,94.00,2026-08-31
+1354,2916430,Fast Food Simulator,2024-12-10,No Ceiling Games,No Ceiling Games,"Early Access, Indie, Simulation",Windows,448.00,35.00,4384.0,60.00,2026-08-31
+1355,4928820,Shelve the Potions!,2026-08-24,Knight Owl Games,,"Casual, Indie, Simulation",Windows,278.00,10.00,245.0,85.00,2026-08-31
+1356,552100,Brick Rigs,2023-07-14,Fluppisoft GmbH,Fluppisoft GmbH,Simulation,"Linux, Windows",640.00,30.00,28048.0,95.00,2026-08-31
+1357,2051620,Enlisted,2024-07-16,Darkflow Software,Gaijin Network Ltd,"Action, Free To Play, Massively Multiplayer","Linux, Windows",0.00,,20140.0,79.00,2026-08-31
+1358,2873660,Global Rescue,2026-04-27,PeDePe GbR,Aerosoft GmbH,"Early Access, Simulation, Strategy","Mac, Windows",1149.00,,1813.0,90.00,2026-08-31
+1359,774171,Muse Dash,2019-06-20,peropero,,"Action, Casual, Indie","Mac, Windows",180.00,,29601.0,86.00,2026-08-31
+1360,2162800,shapez 2 - Factory,2026-04-23,tobspr Games,"Gamirror Games, tobspr Games","Casual, Indie, Simulation, Strategy","Linux, Mac, Windows",899.00,,8767.0,91.00,2026-08-31
+1361,2904040,Cheap Car Repair,2026-05-28,Little Dog Games,"PlayWay S.A., Simplicity Games","Adventure, Indie, Simulation, Strategy",Windows,854.00,11.00,583.0,91.00,2026-08-31
+1362,2513280,SONIC X SHADOW GENERATIONS,2024-10-24,Sonic Team,SEGA,Action,Windows,3999.00,,8999.0,92.00,2026-08-31
+1363,2321470,Deep Rock Galactic: Survivor,2025-09-17,Funday Games,Ghost Ship Publishing,Action,Windows,381.00,40.00,23950.0,79.00,2026-08-31
+1364,2589500,Whisper of the House,2025-08-27,元气弹工作室(GD Studio),,"Adventure, Casual, Indie, Simulation","Mac, Windows",552.00,20.00,2286.0,95.00,2026-08-31
+1365,436150,Governor of Poker 3,2016-02-19,Playtika Ltd.,,"Casual, Free To Play, Massively Multiplayer, Simulation","Mac, Windows",0.00,,6490.0,46.00,2026-08-31
+1366,1211020,Wobbly Life,2025-09-18,RubberBandGames,,"Action, Adventure, Casual, Indie, Simulation",Windows,1050.00,,17925.0,96.00,2026-08-31
+1367,1139980,Travellers Rest,2020-07-28,Isolated Games,"IndieArk, Isolated Games","Adventure, Casual, Early Access, Indie, RPG, Simulation",Windows,607.00,25.00,8305.0,80.00,2026-08-31
+1368,3526710,Everything is Crab: The Animal Evolution Roguelite,2026-05-08,Odd Dreams Digital,Secret Mode,"Action, Indie, Simulation, Strategy",Windows,480.00,10.00,3349.0,81.00,2026-08-31
+1369,544550,Stationeers,2017-12-12,RocketWerkz,RocketWerkz,"Action, Early Access, Indie, Simulation",Windows,1125.00,25.00,5907.0,90.00,2026-08-31
+1370,2963950,Persona 4 Revival,2027-02-17,ATLUS,SEGA,"Adventure, RPG",Windows,4399.00,,,,2026-08-31
+1371,3265700,Vampire Crawlers: The Turbo Wildcard from Vampire Survivors,2026-04-21,"Nosebleed Interactive, poncle",poncle,"Action, Indie, Strategy","Mac, Windows",499.00,8.00,8330.0,93.00,2026-08-31
+1372,1588550,Cairn,2026-01-29,The Game Bakers,The Game Bakers,"Action, Adventure, Indie, Simulation, Sports",Windows,1300.00,,9572.0,90.00,2026-08-31
+1373,2059190,Total War: WARHAMMER III - Forge of the Chaos Dwarfs,2023-04-13,"CREATIVE ASSEMBLY, Feral Interactive",SEGA,"Action, Strategy","Linux, Mac, Windows",1699.00,,1854.0,76.00,2026-08-31
+1374,2527500,MiSide,2024-12-10,AIHASTO,"IndieArk, Shochiku (Japan)","Adventure, Indie, RPG, Simulation",Windows,690.00,,25876.0,96.00,2026-08-31
+1375,3817250,"CICADAMATA""",2026-08-21,✿ flowergarden,✿ flowergarden,"Action, Indie",Windows,499.00,,1166.0,97.00,2026-08-31
+1376,2014780,X-Plane 12,2022-12-17,Laminar Research,,Simulation,"Linux, Mac, Windows",2400.00,,3080.0,90.00,2026-08-31
+1377,3438850,Sledding Game,2026-04-30,The Sledding Corporation,The Sledding Corporation,"Action, Adventure, Casual, Early Access, Indie, Simulation, Sports",Windows,359.00,,2353.0,95.00,2026-08-31
+1378,1929610,Demonologist,2023-09-25,Clock Wizard Games,Clock Wizard Games,"Action, Adventure, Indie",Windows,880.00,,10328.0,77.00,2026-08-31
+1379,109600,Neverwinter,2013-12-05,Cryptic Studios,Arc Games,"Action, Adventure, Free To Play, Massively Multiplayer, RPG",Windows,0.00,,18922.0,69.00,2026-08-31
+1380,3590,Plants vs. Zombies GOTY Edition,2009-05-05,"PopCap Games, Inc.","Electronic Arts, PopCap Games, Inc.",Strategy,"Mac, Windows",259.00,,43013.0,98.00,2026-08-31
+1381,3929470,Warhounds,2026-08-11,Everplay DMCC,"Brightika, Inc.","Action, RPG, Strategy",Windows,1549.00,,733.0,71.00,2026-08-31
+1382,1147860,UFO 50,2024-09-18,Mossmouth,Mossmouth,"Action, Adventure, Indie, RPG, Strategy",Windows,1100.00,,6531.0,87.00,2026-08-31
+1383,3683770,Boba Cafe Simulator,2026-07-24,Caikemi,Erabit,"Casual, RPG, Simulation","Mac, Windows",759.00,,1165.0,84.00,2026-08-31
+1384,4357580,NBA 2K27 MyCAREER Bonus Offer: Season 1,2026-08-26,Visual Concepts,2K,Sports,Windows,1599.00,,32.0,9.00,2026-08-31
+1385,1092790,Inscryption,2021-10-19,Daniel Mullins Games,Devolver Digital,"Adventure, Indie, Strategy","Linux, Mac, Windows",698.00,9.00,76463.0,96.00,2026-08-31
+1386,1118010,Monster Hunter World: Iceborne,2020-01-09,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",Action,Windows,2497.00,,5787.0,42.00,2026-08-31
+1387,2605790,Deep Rock Galactic: Rogue Core,2026-05-20,Ghost Ship Games,"Coffee Stain Publishing, Ghost Ship Publishing","Action, Early Access",Windows,939.00,,7391.0,53.00,2026-08-31
+1388,1237970,Titanfall® 2,2016-10-28,Respawn Entertainment,Electronic Arts,Action,Windows,1499.00,,96365.0,96.00,2026-08-31
+1389,325610,Total War: ATTILA,2015-02-17,"CREATIVE ASSEMBLY, Feral Interactive","Feral Interactive, SEGA",Strategy,"Linux, Mac, Windows",2029.00,,13436.0,83.00,2026-08-31
+1390,5053820,Mimic Party,2026-08-27,FoliesAPP,,Casual,Windows,305.00,15.00,60.0,45.00,2026-08-31
+1391,1669480,Firefighting Simulator: Ignite,2025-09-09,weltenbauer. Software Entwicklung GmbH,astragon Entertainment,"Action, Simulation",Windows,1500.00,30.00,1962.0,84.00,2026-08-31
+1392,3678970,TBH: Task Bar Hero,2026-05-27,"Nugem Studio, Tesseract Studio",Nugem Studio,"Casual, Free To Play, Indie, RPG",Windows,0.00,,8062.0,62.00,2026-08-31
+1393,3058630,Assetto Corsa EVO,2025-01-16,Kunos Simulazioni,505 Games,"Early Access, Racing, Simulation, Sports",Windows,1989.00,,8699.0,53.00,2026-08-31
+1394,1601580,Frostpunk 2,2024-09-20,11 bit studios,11 bit studios,"Simulation, Strategy","Mac, Windows",1800.00,,9660.0,70.00,2026-08-31
+1395,613100,House Flipper,2018-05-17,Empyrean,"Frozen District, PlayWay S.A.","Action, Adventure, Casual, Indie, Massively Multiplayer, Simulation, Strategy","Mac, Windows",1100.00,,45594.0,95.00,2026-08-31
+1396,414700,Outlast 2,2017-04-25,Red Barrels,Red Barrels,"Action, Adventure, Indie",Windows,220.00,75.00,10974.0,86.00,2026-08-31
+1397,2475490,Mouthwashing,2024-09-26,Wrong Organ,CRITICAL REFLEX,"Adventure, Indie",Windows,366.00,40.00,24640.0,93.00,2026-08-31
+1398,3917090,Assetto Corsa Rally,2025-11-13,Supernova Games Studios,505 Games,"Early Access, Racing",Windows,1499.00,,4167.0,81.00,2026-08-31
+1399,2975950,Solasta II,2026-03-12,Tactical Adventures,"Kepler Interactive, Tactical Adventures","Adventure, Early Access, Indie, RPG, Strategy",Windows,1800.00,,1646.0,76.00,2026-08-31
+1400,926990,WolfQuest: Anniversary Edition,2025-07-22,eduweb,,"Action, RPG, Simulation","Mac, Windows",1300.00,,10073.0,96.00,2026-08-31
+1401,4948000,Moo Who?,2026-08-21,SAT Productions,SAT Productions,"Action, Casual, Indie",Windows,359.00,,138.0,67.00,2026-08-31
+1402,1005300,The Jackbox Party Pack 6,2019-10-16,"Jackbox Games, Inc.","Jackbox Games, Inc.","Casual, Indie, Strategy","Linux, Mac, Windows",715.00,45.00,2051.0,85.00,2026-08-31
+1403,304212,Euro Truck Simulator 2 - Scandinavia,2015-05-06,SCS Software,SCS Software,"Indie, Simulation","Linux, Mac, Windows",850.00,,1042.0,92.00,2026-08-31
+1404,1602000,Hotel Architect,2026-05-14,Pathos Interactive,"Gamersky Games, Wired Productions","Casual, Indie, Simulation, Strategy",Windows,1226.00,,1892.0,96.00,2026-08-31
+1405,2350790,Moonlighter 2: The Endless Vault,2025-11-19,Digital Sun,11 bit studios,"Action, Adventure, Early Access, RPG",Windows,1350.00,,1234.0,82.00,2026-08-31
+1406,752590,A Plague Tale: Innocence,2019-05-14,Asobo Studio,Focus Entertainment,"Action, Adventure",Windows,2299.00,,22175.0,90.00,2026-08-31
+1407,1062520,Dinkum,2025-04-22,James Bendon,"KRAFTON, Inc.","Adventure, Casual, Indie, RPG, Simulation",Windows,693.00,30.00,15784.0,83.00,2026-08-31
+1408,16900,GROUND BRANCH,2026-07-16,"BlackFoot Studios, MicroProse Software",MicroProse Software,"Action, Indie, Simulation",Windows,559.00,20.00,15177.0,40.00,2026-08-31
+1409,1148130,Divinum,2026-08-28,Sigil Games,,"Action, Adventure, Indie, RPG","Mac, Windows",584.00,10.00,255.0,85.00,2026-08-31
+1410,597180,Old World,2022-05-18,Mohawk Games,Hooded Horse,"RPG, Simulation, Strategy","Linux, Mac, Windows",374.00,75.00,3920.0,90.00,2026-08-31
+1411,1066780,Transport Fever 2,2019-12-11,Urban Games,Good Shepherd Entertainment,"Casual, Indie, Simulation, Strategy","Linux, Mac, Windows",1600.00,,10628.0,87.00,2026-08-31
+1412,200210,Realm of the Mad God Exalt,2012-02-20,"Deca Live Operations GmbH, Wild Shadow Studios",,"Action, Adventure, Free To Play, Indie, Massively Multiplayer, RPG","Mac, Windows",0.00,,32787.0,81.00,2026-08-31
+1413,610180,The Jackbox Party Pack 4,2017-10-18,"Jackbox Games, Inc.","Jackbox Games, Inc.","Casual, Indie, Strategy","Linux, Mac, Windows",385.00,65.00,1961.0,95.00,2026-08-31
+1414,580100,Darkest Dungeon®: The Crimson Court,2017-06-19,Red Hook Studios,Red Hook Studios,"Indie, RPG, Strategy","Linux, Mac, Windows",224.00,50.00,1042.0,41.00,2026-08-31
+1415,239030,"Papers, Please",2013-08-08,Lucas Pope,,"Adventure, Indie","Linux, Mac, Windows",480.00,,39601.0,96.00,2026-08-31
+1416,2681030,Outbound,2026-05-11,Square Glade Games,Square Glade Games,"Adventure, Casual, Indie, Simulation",Windows,1100.00,6.00,1758.0,78.00,2026-08-31
+1417,3447070,Emergency Call - The Firefighting Simulation 3,2026-08-05,Crenetic GmbH Studios,Aerosoft GmbH,"Action, Early Access, Simulation",Windows,1149.00,,347.0,70.00,2026-08-31
+1418,501300,What Remains of Edith Finch,2017-04-24,Giant Sparrow,Annapurna Interactive,"Adventure, Indie",Windows,212.00,75.00,18441.0,95.00,2026-08-31
+1419,3144230,Modern Warships,2026-06-04,Artstorm FZE,Gaijin Network Ltd,"Action, Free To Play, Massively Multiplayer, Simulation",Windows,0.00,,1143.0,63.00,2026-08-31
+1420,289650,Assassin's Creed® Unity,2014-11-12,Ubisoft,Ubisoft,"Action, Adventure",Windows,1499.00,,26134.0,73.00,2026-08-31
+1421,361420,ASTRONEER,2016-12-16,System Era Softworks,System Era Softworks,"Adventure, Indie",Windows,1499.00,,53832.0,89.00,2026-08-31
+1422,629520,Soundpad,2016-11-09,Leppsoft,,"Audio Production, Utilities",Windows,250.00,,27978.0,95.00,2026-08-31
+1423,3486960,American Truck Simulator - Illinois,2026-05-14,SCS Software,,"Indie, Simulation","Linux, Mac, Windows",580.00,,207.0,79.00,2026-08-31
+1424,211500,RaceRoom Racing Experience,2013-02-12,KW Studios,,"Free To Play, Racing, Simulation, Sports",Windows,0.00,,11722.0,75.00,2026-08-31
+1425,1709880,Loco Motive,2024-11-21,Robust Games,Chucklefish,"Adventure, Indie",Windows,364.00,55.00,1160.0,84.00,2026-08-31
+1426,1010822,Barony: Deserters & Disciples,2026-01-29,Turning Wheel LLC,,"Action, Adventure, Indie, RPG","Linux, Mac, Windows",400.00,,193.0,90.00,2026-08-31
+1427,304050,Trove,2015-07-09,gamigo US Inc.,gamigo US Inc.,"Action, Adventure, Casual, Free To Play, Massively Multiplayer, RPG",Windows,0.00,,42353.0,59.00,2026-08-31
+1428,1703340,The Stanley Parable: Ultra Deluxe,2022-04-27,Crows Crows Crows,Crows Crows Crows,"Adventure, Casual, Indie","Linux, Mac, Windows",569.00,,24376.0,92.00,2026-08-31
+1429,3315530,Crusader Kings III: All Under Heaven,2025-10-28,Paradox Development Studio,Paradox Interactive,"RPG, Simulation, Strategy","Linux, Mac, Windows",1859.00,,1963.0,67.00,2026-08-31
+1430,1216320,Shieldwall,2023-04-18,Nezon Production,Nezon Production,"Action, Casual, Indie, Simulation, Strategy",Windows,930.00,,3482.0,80.00,2026-08-31
+1431,24200,DC Universe™ Online,2011-11-02,Dimensional Ink Games,Daybreak Game Company,"Action, Adventure, Free To Play, Massively Multiplayer, RPG",Windows,0.00,,12728.0,82.00,2026-08-31
+1432,953490,CARRION,2020-07-23,Phobia Game Studio,Devolver Digital,"Action, Adventure, Indie","Linux, Mac, Windows",176.00,80.00,17759.0,91.00,2026-08-31
+1433,4045750,Out of the Park Baseball 27,2026-03-13,Out of the Park Developments,Out of the Park Developments,"Indie, Simulation, Sports, Strategy","Mac, Windows",2000.00,,449.0,78.00,2026-08-31
+1434,3394840,Clawed,2026-08-13,Flatrock Games,,"Action, Adventure",Windows,915.00,,647.0,53.00,2026-08-31
+1435,1910150,Walk of Life,2026-04-30,Porcelain Fortress,,"Casual, Indie, Simulation, Strategy","Mac, Windows",584.00,35.00,816.0,97.00,2026-08-31
+1436,2404880,Car Dealer Simulator,2025-05-29,Garage Monkeys,Garage Monkeys,"Casual, Indie, Simulation",Windows,880.00,,4375.0,86.00,2026-08-31
+1437,2643390,Star Trek: Voyager - Across the Unknown,2026-02-18,Gamexcite,Daedalic Entertainment,"Indie, Strategy",Windows,1999.00,,3076.0,73.00,2026-08-31
+1438,4399460,Total War: WARHAMMER III - Bhashiva – Character Pack,2026-05-21,"CREATIVE ASSEMBLY, Feral Interactive",SEGA,"Action, Strategy","Linux, Mac, Windows",399.00,,1177.0,51.00,2026-08-31
+1439,1599600,PlateUp!,2022-08-04,It's happening,"Gamersky Games, Yogscast Games","Action, Casual, Indie, Strategy",Windows,880.00,37.00,12326.0,95.00,2026-08-31
+1440,1533390,Gorilla Tag,2023-01-01,Another Axiom Inc.,,"Action, Casual",Windows,880.00,5.00,47238.0,91.00,2026-08-31
+1441,293760,Automation - The Car Company Tycoon Game,2015-03-12,Camshaft Software Ltd,Camshaft Software Ltd,"Early Access, Indie, Racing, Simulation, Strategy",Windows,1300.00,,12265.0,91.00,2026-08-31
+1442,967050,Pacify,2019-02-22,Shawn Hitchcock,,"Action, Adventure, Casual, Indie, Strategy","Mac, Windows",110.00,56.00,11149.0,68.00,2026-08-31
+1443,1338770,Sniper Ghost Warrior Contracts 2,2021-06-04,CI Games,CI Games,Action,Windows,199.00,90.00,4470.0,80.00,2026-08-31
+1444,1422130,SimRail - The Railway Simulator,2024-12-13,SimRail S.A.,PlayWay S.A.,"Casual, Simulation",Windows,1549.00,,952.0,77.00,2026-08-31
+1445,3966510,Feed the Scorchpot,2026-08-20,Moravian,"Indieformer, WhisperGames","Indie, Strategy",Windows,719.00,7.00,287.0,87.00,2026-08-31
+1446,4317790,Last Pirates: Die Together,2026-08-18,RetroStyle Games,RetroStyle Games,"Action, Adventure, Early Access",Windows,332.00,20.00,289.0,76.00,2026-08-31
+1447,1004640,FINAL FANTASY TACTICS - The Ivalice Chronicles,2025-09-30,Square Enix,Square Enix,"RPG, Strategy",Windows,3499.00,,4254.0,92.00,2026-08-31
+1448,42680,Call of Duty®: Modern Warfare® 3 (2011),2011-11-07,"Infinity Ward, Sledgehammer Games",Activision,Action,Windows,3599.00,,7170.0,95.00,2026-08-31
+1449,1995690,Icarus: Styx Expansion,2022-05-27,RocketWerkz,RocketWerkz,"Action, Adventure, Simulation",Windows,660.00,25.00,183.0,74.00,2026-08-31
+1450,1392860,Little Nightmares III,2025-10-09,Supermassive Games,Bandai Namco Entertainment,Adventure,Windows,2499.00,,5014.0,54.00,2026-08-31
+1451,1468810,鬼谷八荒 Tale of Immortal,2023-05-26,鬼谷工作室,Lightning Games,"Action, Adventure, Indie, RPG, Simulation",Windows,829.00,8.00,3794.0,77.00,2026-08-31
+1452,690790,DiRT Rally 2.0,2019-02-25,Codemasters,"Codemasters, Electronic Arts","Racing, Simulation, Sports",Windows,569.00,,18816.0,92.00,2026-08-31
+1453,2780980,LOCKDOWN Protocol,2025-11-18,Mirage Creative Lab,,"Action, Casual, Indie, Strategy",Windows,480.00,,9403.0,76.00,2026-08-31
+1454,774461,The Jackbox Party Pack 5,2018-10-17,"Jackbox Games, Inc.","Jackbox Games, Inc.","Casual, Indie, Strategy","Linux, Mac, Windows",260.00,80.00,2007.0,93.00,2026-08-31
+1455,1113410,ARK: Genesis Season Pass,2019-08-08,"Efecto Studios, Instinct Games, Studio Wildcard, Virtual Basement LLC","Snail Games USA, Studio Wildcard","Action, Adventure, Indie, Massively Multiplayer, RPG","Linux, Mac, Windows",552.00,20.00,1964.0,51.00,2026-08-31
+1456,3453910,Happy's Humble Burger Cult,2026-07-16,Scythe Dev Team,tinyBuild,"Indie, Simulation",Windows,499.00,4.00,437.0,89.00,2026-08-31
+1457,1205970,MX vs ATV Legends,2022-06-28,Rainbow Studios,THQ Nordic,"Racing, Sports",Windows,1349.00,,3112.0,86.00,2026-08-31
+1458,3950020,Duet Night Abyss,2026-01-19,Pan Studio,,"Action, Free To Play, RPG",Windows,0.00,,1194.0,54.00,2026-08-31
+1459,837470,Untitled Goose Game,2020-09-23,House House,Panic,"Action, Indie","Mac, Windows",899.00,,10244.0,97.00,2026-08-31
+1460,3645890,GONE Fishing,2025-06-15,GONE Studios,,"Action, Adventure, Early Access, Indie",Windows,159.00,20.00,2066.0,84.00,2026-08-31
+1461,2008610,Guild Wars 2® End of Dragons® Expansion,2022-08-23,ArenaNet®,"ArenaNet®, NCSOFT","Adventure, Free To Play, Massively Multiplayer, RPG",Windows,1376.00,40.00,119.0,67.00,2026-08-31
+1462,3370870,Berry Bury Berry,2026-01-29,Get(Color) Games,Black Lantern Collective,"Adventure, Casual, Indie",Windows,400.00,3.00,6197.0,98.00,2026-08-31
+1463,2993780,FANTASY LIFE i: The Girl Who Steals Time,2025-05-21,LEVEL5 Inc.,LEVEL5 Inc.,RPG,Windows,4995.00,,5561.0,72.00,2026-08-31
+1464,767320,Granblue Fantasy,2026-03-10,"Cygames, Inc.",,RPG,Windows,0.00,,930.0,36.00,2026-08-31
+1465,2794590,Scam Line,2026-01-10,RavenJm,"GAZE IN GAMES, RavenJm","Early Access, Indie",Windows,250.00,,1059.0,77.00,2026-08-31
+1466,2457220,Avowed,2025-02-18,Obsidian Entertainment,Xbox Game Studios,RPG,Windows,2999.00,,9708.0,75.00,2026-08-31
+1467,1552350,The Jackbox Party Pack 8,2021-10-13,"Jackbox Games, Inc.","Jackbox Games, Inc.","Casual, Indie, Strategy","Linux, Mac, Windows",715.00,45.00,1133.0,90.00,2026-08-31
+1468,2509200,ERA ONE,2025-08-06,Team Complex LTD,,"Early Access, Strategy",Windows,1040.00,20.00,1546.0,81.00,2026-08-31
+1469,1486920,Tempest Rising,2025-04-24,Slipgate Ironworks™,"3D Realms, Knights Peak, Saber Interactive","Action, Strategy",Windows,1999.00,,5202.0,80.00,2026-08-31
+1470,3014320,OCTOPATH TRAVELER 0,2025-12-04,"DOKIDOKI GROOVE WORKS, Square Enix",Square Enix,RPG,Windows,3499.00,,1160.0,84.00,2026-08-31
+1471,1369670,Motor Town: Behind The Wheel,2021-12-17,P3 Games,,"Adventure, Casual, Early Access, Indie, Racing, Simulation",Windows,880.00,,5544.0,92.00,2026-08-31
+1472,2849080,Kingdom Rush 5: Alliance TD,2024-07-25,Ironhide Game Studio,Ironhide Game Studio,"Indie, Strategy","Mac, Windows",880.00,,1880.0,80.00,2026-08-31
+1473,1455840,Dorfromantik,2022-04-28,Toukana Interactive,Toukana Interactive,"Casual, Indie, Simulation, Strategy","Mac, Windows",285.00,35.00,15727.0,96.00,2026-08-31
+1474,1761390,Hatsune Miku: Project DIVA Mega Mix+,2022-05-26,SEGA,SEGA,Action,Windows,1999.00,,10277.0,98.00,2026-08-31
+1475,500,Left 4 Dead,2008-11-17,Valve,Valve,Action,Windows,480.00,,20156.0,95.00,2026-08-31
+1476,10180,Call of Duty®: Modern Warfare® 2 (2009),2009-11-12,Infinity Ward,Activision,Action,"Mac, Windows",1799.00,,17095.0,98.00,2026-08-31
+1477,625960,Stoneshard,2020-02-06,Ink Stains Games,HypeTrain Digital,"Adventure, Early Access, Indie, RPG, Strategy","Linux, Windows",699.00,,11516.0,77.00,2026-08-31
+1478,3450960,Total War: WARHAMMER III - Aislinn – Tides of Torment,2025-12-04,"CREATIVE ASSEMBLY, Feral Interactive",SEGA,"Action, Strategy","Linux, Mac, Windows",675.00,,657.0,47.00,2026-08-31
+1479,3372060,Hell Maiden,2026-07-16,AstralShift,AstralShift,"Action, Casual, Early Access, Indie, RPG",Windows,499.00,,1745.0,92.00,2026-08-31
